@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Immagini",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "en-GB",
+    "en-US"
+  ],
+  "alwaysUpdateLinks": true
+}

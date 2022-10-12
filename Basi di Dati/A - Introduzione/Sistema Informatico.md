@@ -1,0 +1,1 @@
+Insieme dei sistemi hardware e software presenti in una azienda, assicura la generazione, l'elaborazione, la circolazione e la memorizzazione delle informazioni su supporti informatici.

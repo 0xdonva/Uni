@@ -1,0 +1,1 @@
+La funzione del __tagger__ è quella di assegnare a ciascuna parola solo pa parte del discorso in cui assume il contesto.
