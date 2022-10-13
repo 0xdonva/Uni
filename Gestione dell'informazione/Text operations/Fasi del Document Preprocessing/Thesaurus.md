@@ -17,4 +17,8 @@ Ricerca:
 
 ## Componenti di un tesauro
 ### Thesaurus Index Term
-Usato per 
+Usato per indicare un concetto che è l'unità semantica di base.
+Può essere singole parole, gruppi di parole o frasi, a volte è necessario implementare una _definizione_ o una _spiegazione_ per eliminare le ambiguità, es. `mouse(Topo in inglese), mouse(Elettronica)`.
+
+### Thesaurus Index Term Relationship
+Per la maggior parte composto da sinonimi e semi-sinonimi, vengono infatti utilizzate queste sigle: `BT(Termine più ampio), NT(Termine più specifico), RT(Termine correlato)`.

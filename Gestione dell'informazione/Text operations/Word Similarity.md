@@ -1,0 +1,1 @@
+__Sinonimo__: una relazione binario, 
