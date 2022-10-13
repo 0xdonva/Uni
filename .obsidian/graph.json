@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 5427424
       }
+    },
+    {
+      "query": "path:\"Basi di Dati\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9154249394276633,
+  "scale": 0.257451681054972,
   "close": true
 }
