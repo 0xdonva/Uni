@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
+            "file": "Gestione dell'informazione/Text operations/Thesaurus.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
+                "file": "Gestione dell'informazione/Text operations/Thesaurus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "36b116cc5246c968",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Hub.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Bridge.md",
@@ -107,7 +108,6 @@
     "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Selezione dei termini indice.md",
     "Gestione dell'informazione/Text operations/Document Preprocessing.md",
     "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Parser.md",
-    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Stemming & Lemmatisation.md",
-    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Eliminazione delle stop-word.md"
+    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Stemming & Lemmatisation.md"
   ]
 }
