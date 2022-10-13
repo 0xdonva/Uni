@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gestione dell'informazione/Text operations/Word Similarity.md",
+            "file": "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestione dell'informazione/Text operations/Word Similarity.md",
+                "file": "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "36b116cc5246c968",
   "lastOpenFiles": [
+    "Gestione dell'informazione/Text operations/Word Similarity.md",
     "Gestione dell'informazione/Text operations/Document Preprocessing.md",
     "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Thesaurus.md",
     "Gestione dell'informazione/Information Retrieval.md",
@@ -107,7 +108,6 @@
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Bridge.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Apparati di rete.md",
-    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Tagger.md",
-    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Selezione dei termini indice.md"
+    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Tagger.md"
   ]
 }
