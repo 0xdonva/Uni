@@ -22,3 +22,6 @@ I [[frame Ethernet]] destinati ad host dello stesso segmento non sono inoltrati 
 
 ### Inoltro
 Per sapere qual'è il segmento di [[rete LAN]] su cui deve essere inoltrato il [[frame ethernet]] si usa l'[[indirizzo MAC]].
+
+## Tipi di comunicazione
+### S
