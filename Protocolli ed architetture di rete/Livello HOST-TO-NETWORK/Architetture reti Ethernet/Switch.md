@@ -24,4 +24,9 @@ I [[frame Ethernet]] destinati ad host dello stesso segmento non sono inoltrati 
 Per sapere qual'è il segmento di [[rete LAN]] su cui deve essere inoltrato il [[frame ethernet]] si usa l'[[indirizzo MAC]].
 
 ## Tipi di comunicazione
-### S
+### Store-and-forward
+Quando un [[frame ethernet]] è instradato attraverso un _commutatore store-and-forward_, è raccolto e immagazzinato nella sua totalità prima che il commutatore inizi a trasmetterlo sulla linea di uscita.
+
+### Cut-through
+Il [[frame ethernet]] è inoltrato dalla porta di input dello switch a quella di output senza aspettare che tutto il frame sia arrivato al commutatore.
+È sufficiente che sia giunta la parte del frame contenente l'indirizzo di destinazione e che il canale di uscita sia libero.
