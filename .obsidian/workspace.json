@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8f849a1d692d67c9",
+        "id": "6e9b1aeaf68dd7ee",
         "type": "tabs",
         "children": [
           {
-            "id": "36b116cc5246c968",
+            "id": "86725a26d55c6a74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -63,39 +67,7 @@
   "right": {
     "id": "75ca566de29ce5f0",
     "type": "split",
-    "children": [
-      {
-        "id": "3230d8446770a3f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "857835fd3edd2522",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "e0e7f57f68709d2f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -103,17 +75,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "36b116cc5246c968",
+  "active": "86725a26d55c6a74",
   "lastOpenFiles": [
+    "Basi di Dati/D - Progettazione logica/Dati derivati.md",
+    "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Organizzazioni hash.md",
+    "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Ottimizzatori.md",
     "Untitled.md",
     "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
     "Gestione dell'informazione/Text operations/Word Similarity.md",
     "Gestione dell'informazione/Text operations/Document Preprocessing.md",
     "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Thesaurus.md",
     "Gestione dell'informazione/Information Retrieval.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Hub.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Bridge.md"
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md"
   ]
 }
