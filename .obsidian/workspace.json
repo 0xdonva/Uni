@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "83b20fb58d76fceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f849a1d692d67c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b116cc5246c968",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73b73ec79d3731ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6da51f75d1804c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2386e993ddc732de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3a24ded748f70d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "75ca566de29ce5f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3230d8446770a3f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857835fd3edd2522",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e0e7f57f68709d2f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "36b116cc5246c968",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
+    "Gestione dell'informazione/Text operations/Word Similarity.md",
+    "Gestione dell'informazione/Text operations/Document Preprocessing.md",
+    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Thesaurus.md",
+    "Gestione dell'informazione/Information Retrieval.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Hub.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Bridge.md"
+  ]
+}
