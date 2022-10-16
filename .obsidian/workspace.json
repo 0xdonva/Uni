@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e6654d83a3d6727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi dinamici/Python/Variabile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27b7e24b6be57de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi dinamici/Python/Dynamic Typing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Dato.md",
+                "file": "Linguaggi dinamici/Python/Dynamic Typing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +136,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a3041c6ee74a367a",
+  "active": "27b7e24b6be57de7",
   "lastOpenFiles": [
+    "Linguaggi dinamici/Python/Variabile.md",
+    "Linguaggi dinamici/Python/Dato.md",
     "Linguaggi dinamici/Python/Python.md",
     "Linguaggi dinamici/Untitled.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
@@ -121,8 +147,6 @@
     "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Organizzazioni hash.md",
     "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Ottimizzatori.md",
     "Untitled.md",
-    "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
-    "Gestione dell'informazione/Text operations/Word Similarity.md",
-    "Gestione dell'informazione/Text operations/Document Preprocessing.md"
+    "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md"
   ]
 }

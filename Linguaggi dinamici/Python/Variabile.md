@@ -1,0 +1,1 @@
+Una variabile in [[Python]] è solo il __nome__ dato ad un _oggetto_.
