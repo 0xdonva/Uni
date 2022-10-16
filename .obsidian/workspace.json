@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Dato.md",
+                "file": "Linguaggi dinamici/Python/Int.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "58adebe1eb981020",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linguaggi dinamici/Python/Int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +98,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "58adebe1eb981020",
+  "active": "27b7e24b6be57de7",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Int.md",
     "Linguaggi dinamici/Python/Dato.md",
+    "Linguaggi dinamici/Python/Int.md",
     "Linguaggi dinamici/Python/Dynamic Typing.md",
     "Linguaggi dinamici/Python/Variabile.md",
     "Linguaggi dinamici/Python/Python.md",
