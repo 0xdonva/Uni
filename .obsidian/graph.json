@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:\"Linguaggi dinamici\"",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
     }
   ],
   "collapse-display": true,
