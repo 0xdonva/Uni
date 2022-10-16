@@ -1,2 +1,0 @@
-A differenza di Java in python non esistono tipi di dati primitivi, infatti gli __interi__ sono degli oggetti e come tali possiedono metodi che possono essere manipolati.
-Per esempio la scrittura `x+y` è solo zu

@@ -5,7 +5,7 @@ In [[Python]] pure le funzioni o le stesse classi sono oggetti.
 I dati in Python possono essere semplici o complessi:
 
 ### Semplici
-I tipi semplici predefiniti in Python sono gli _[[int|interi]]_, i _float_, i _booleani_ e le _stringhe_.
+I tipi semplici predefiniti in Python sono gli _[[Int e Float|interi]]_, i _[[Int e Float|float]]_, i _[[bool|booleani]]_ e le _stringhe_.
 Infatti non esiste il tipo di dato _carattere_ ma quest'ultimo è solo una stringa di lunghezza 1.
 
 ### Complessi
