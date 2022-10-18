@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a4bb3d119f09eb59",
+        "id": "6c0513843bb1ca59",
         "type": "tabs",
         "children": [
           {
-            "id": "a4552c3e9d8eaa0e",
+            "id": "0a08edd12c201f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Strutture/Lista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0061e1ff0f8b38df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Strutture/Dizionario.md",
+                "file": "Linguaggi dinamici/Python/Strutture/Insieme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "6c0513843bb1ca59",
+        "id": "f31427e11fb5ede6",
         "type": "tabs",
         "children": [
           {
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Strutture/Dizionario.md",
+                "file": "Linguaggi dinamici/Python/Strutture/Insieme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +117,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0061e1ff0f8b38df",
+  "active": "0a08edd12c201f35",
   "lastOpenFiles": [
     "Linguaggi dinamici/Python/Strutture/Lista.md",
+    "Linguaggi dinamici/Python/Strutture/Dizionario.md",
     "Linguaggi dinamici/Python/Strutture/Tupla.md",
     "Linguaggi dinamici/Python/Dato.md",
     "Linguaggi dinamici/Python/Funzioni/Id.md",
@@ -140,7 +128,6 @@
     "Linguaggi dinamici/Python/Bool.md",
     "Linguaggi dinamici/Python/Int e Float.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
-    "Linguaggi dinamici/Untitled.md",
-    "Basi di Dati/D - Progettazione logica/Dati derivati.md"
+    "Linguaggi dinamici/Untitled.md"
   ]
 }
