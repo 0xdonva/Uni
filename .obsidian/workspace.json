@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe35fb0eb0527743",
+        "id": "a4bb3d119f09eb59",
         "type": "tabs",
         "children": [
           {
-            "id": "b4833e8b697d92bf",
+            "id": "d1fc0ad5ea2a7b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Dato.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a289a0cb865a410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Dato.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5772e7e9cb1403ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Funzioni/Id.md",
+                "file": "Linguaggi dinamici/Python/Strutture/Tupla.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Funzioni/Id.md",
+                "file": "Linguaggi dinamici/Python/Strutture/Tupla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +99,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5772e7e9cb1403ad",
+  "active": "d1fc0ad5ea2a7b9b",
   "lastOpenFiles": [
     "Linguaggi dinamici/Python/Dato.md",
+    "Linguaggi dinamici/Python/Strutture/Tupla.md",
+    "Linguaggi dinamici/Python/Funzioni/Id.md",
     "Linguaggi dinamici/Python/String.md",
     "Linguaggi dinamici/Python/Bool.md",
     "Linguaggi dinamici/Python/Int e Float.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
     "Linguaggi dinamici/Untitled.md",
     "Basi di Dati/D - Progettazione logica/Dati derivati.md",
-    "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Organizzazioni hash.md",
-    "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Ottimizzatori.md",
-    "Untitled.md"
+    "Basi di Dati/E - Progetto fisico e Tecnologia di un DBMS/Organizzazioni hash.md"
   ]
 }

@@ -8,8 +8,8 @@ I dati in Python possono essere semplici o complessi:
 I tipi semplici predefiniti in Python sono gli _[[Int e Float|interi]]_, i _[[Int e Float|float]]_, i _[[bool|booleani]]_ e le _[[String|stringhe]]_.
 Infatti non esiste il tipo di dato _carattere_ ma quest'ultimo è solo una stringa di lunghezza 1.
 
-### Complessi
-
+### Struttura
+Uno dei tanti punti di forza di Python è la ricca dotazione di _dati strutturati_ predefiniti: _[[Tupla|tuple]]_, _[[Lista|liste]]_, _[[Insieme|insiemi]]_ e _[[Dizionario|dizionari]]_.
 
 ### Immutable
 Un tipo di dato __immutable__ è un tipo di dato che se viene modificato modificato, viene modificata anche la sua identità.
