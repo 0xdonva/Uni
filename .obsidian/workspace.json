@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0513843bb1ca59",
+        "id": "658bef7e9030e45e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a08edd12c201f35",
+            "id": "3ebbaad6f95b8e91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Strutture/Insieme.md",
+                "file": "Linguaggi dinamici/Python/Istruzioni/Break.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c71cdb9de9aabc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi dinamici/Python/Funzioni/Range.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "f31427e11fb5ede6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e583e97a8793dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Strutture/Lista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Strutture/Insieme.md",
+                "file": "Linguaggi dinamici/Python/Funzioni/Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +112,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0a08edd12c201f35",
+  "active": "9c71cdb9de9aabc2",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Strutture/Lista.md",
-    "Linguaggi dinamici/Python/Strutture/Dizionario.md",
-    "Linguaggi dinamici/Python/Strutture/Tupla.md",
+    "Linguaggi dinamici/Python/Istruzioni/Break.md",
+    "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
     "Linguaggi dinamici/Python/Dato.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Insieme.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Lista.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Dizionario.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Tupla.md",
     "Linguaggi dinamici/Python/Funzioni/Id.md",
-    "Linguaggi dinamici/Python/String.md",
-    "Linguaggi dinamici/Python/Bool.md",
-    "Linguaggi dinamici/Python/Int e Float.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
-    "Linguaggi dinamici/Untitled.md"
+    "Linguaggi dinamici/Python/Dati Semplici/String.md",
+    "Linguaggi dinamici/Python/Dati Semplici/Bool.md"
   ]
 }

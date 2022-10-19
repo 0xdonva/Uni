@@ -2,10 +2,10 @@ Da [[Python]] 2.2 __ogni dato è un oggetto__, proprio come inteso nella program
 In [[Python]] pure le funzioni o le stesse classi sono oggetti.
 
 ## Tipi da dato
-I dati in Python possono essere semplici o complessi:
+I dati in Python possono essere semplici o strutture di dati:
 
 ### Semplici
-I tipi semplici predefiniti in Python sono gli _[[Int e Float|interi]]_, i _[[Int e Float|float]]_, i _[[bool|booleani]]_ e le _[[String|stringhe]]_.
+I tipi semplici predefiniti in Python sono gli _[[Int e Float|interi]]_, i _[[Int e Float|float]]_, i _[[Bool|booleani]]_ e le _[[String|stringhe]]_.
 Infatti non esiste il tipo di dato _carattere_ ma quest'ultimo è solo una stringa di lunghezza 1.
 
 ### Struttura
