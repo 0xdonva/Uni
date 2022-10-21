@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d5728f0ac64e175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber-Phisical Security/Tipi di malware/Virus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Malware.md",
+                "file": "Cyber-Phisical Security/Tipi di malware/Virus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +112,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ad8c68ea76db1b3f",
+  "active": "2d5728f0ac64e175",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Malware.md",
     "Gestione dell'informazione/Full-Text Indexing/Indici.md",
     "Linguaggi dinamici/Python/Istruzioni/Return.md",
     "Parametro.md",
@@ -109,7 +123,6 @@
     "Linguaggi dinamici/Python/Funzioni/Id.md",
     "Linguaggi dinamici/Python/Iteratore.md",
     "Linguaggi dinamici/Python/Istruzioni/Break.md",
-    "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
-    "Linguaggi dinamici/Python/Dato.md"
+    "Linguaggi dinamici/Python/Strutture di Controllo/For.md"
   ]
 }
