@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccbe615911fd965c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Spyware.md",
+                "file": "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +136,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "525a66a6ef86101e",
+  "active": "ccbe615911fd965c",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Tipi di malware/Spyware.md",
     "Cyber-Phisical Security/Tipi di malware/Worm.md",
     "Cyber-Phisical Security/Tipi di malware/Virus.md",
     "Cyber-Phisical Security/Tipi di malware/Trojan.md",
@@ -134,7 +147,6 @@
     "Linguaggi dinamici/Python/Istruzioni/Return.md",
     "Parametro.md",
     "Linguaggi dinamici/Python/Funzione.md",
-    "Linguaggi dinamici/Python/Funzioni/Range.md",
-    "Linguaggi dinamici/Python/Funzioni/Id.md"
+    "Linguaggi dinamici/Python/Funzioni/Range.md"
   ]
 }
