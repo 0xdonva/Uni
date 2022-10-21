@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad8c68ea76db1b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Malware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d5728f0ac64e175",
+            "id": "5a7344b706bc4647",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c4b56c1731c2b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber-Phisical Security/Tipi di malware/Worm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "525a66a6ef86101e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber-Phisical Security/Tipi di malware/Spyware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Virus.md",
+                "file": "Cyber-Phisical Security/Tipi di malware/Spyware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +124,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2d5728f0ac64e175",
+  "active": "525a66a6ef86101e",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Tipi di malware/Worm.md",
+    "Cyber-Phisical Security/Tipi di malware/Virus.md",
+    "Cyber-Phisical Security/Tipi di malware/Trojan.md",
     "Cyber-Phisical Security/Malware.md",
     "Gestione dell'informazione/Full-Text Indexing/Indici.md",
     "Linguaggi dinamici/Python/Istruzioni/Return.md",
     "Parametro.md",
     "Linguaggi dinamici/Python/Funzione.md",
     "Linguaggi dinamici/Python/Funzioni/Range.md",
-    "Linguaggi dinamici/Python/Funzioni/Id.md",
-    "Linguaggi dinamici/Python/Iteratore.md",
-    "Linguaggi dinamici/Python/Istruzioni/Break.md",
-    "Linguaggi dinamici/Python/Strutture di Controllo/For.md"
+    "Linguaggi dinamici/Python/Funzioni/Id.md"
   ]
 }
