@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "007d4fcf51468cc6",
+        "id": "ed14c86c0541c545",
         "type": "tabs",
         "children": [
           {
-            "id": "d841095e1be0e84f",
+            "id": "715332708b056dfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68c3707ee711e6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Senza nome.md",
+                "file": "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Senza nome.md",
+                "file": "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
+    "width": 300,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68c3707ee711e6f0",
+  "active": "715332708b056dfa",
   "lastOpenFiles": [
-    "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
-    "Cyber-Phisical Security/Malware.md",
-    "Cyber-Phisical Security/Vulnerabilità Applicazioni - Local Injection/Software e bug.md",
+    "Gestione dell'informazione/Full-Text Indexing/Indici.md",
     "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
     "Cyber-Phisical Security/Tipi di malware/Spyware.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Protocollo di routing.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Tabella di routing.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md"
+    "Cyber-Phisical Security/Tipi di malware/Worm.md",
+    "Cyber-Phisical Security/Tipi di malware/Virus.md",
+    "Cyber-Phisical Security/Tipi di malware/Trojan.md",
+    "Cyber-Phisical Security/Malware.md",
+    "Linguaggi dinamici/Python/Istruzioni/Return.md",
+    "Parametro.md",
+    "Linguaggi dinamici/Python/Funzione.md"
   ]
 }
