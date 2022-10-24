@@ -1,3 +1,3 @@
 Ogni host e ogni [[router]] hanno una __tabella di routing__ in cui ciascuna riga fornisce il _next-hop_ per ogni possibile destinazione.
 Si sfruttano tecniche di aggregazione per fare in modo che ogni riga possa "catturare" molte destinazioni, difatti è essenziale progettare le reti IP assegnando opportunamente gli [[indirizzo IP|indirizzi IP]].
-In contesti semplici, la tabella di routing può essere definita in maniera _statica_ da un amministratore di rete o un protocollo di
+In contesti semplici, la tabella di routing può essere definita in maniera _statica_ da un amministratore di rete o un protocollo di configurazione, mentre per definirla in maniera dinamica si usano i [[Protocollo di routing|protocolli di routing]].
