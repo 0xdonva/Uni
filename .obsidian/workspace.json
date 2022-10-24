@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "178d2dc340956907",
+            "id": "0d122a985efed835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso ISDN.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d122a985efed835",
+            "id": "58d610b8adfec986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso xDSL.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso xDSL.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0d122a985efed835",
+  "active": "58d610b8adfec986",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Internet.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso ISDN.md",
+    "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso xDSL.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Protocolli/Protocollo PPP.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Protocolli/Protocollo SLIP.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Modem.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso dial-up.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Internet.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Autonomous system.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Protocollo ARP.md"
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP.md"
   ]
 }
