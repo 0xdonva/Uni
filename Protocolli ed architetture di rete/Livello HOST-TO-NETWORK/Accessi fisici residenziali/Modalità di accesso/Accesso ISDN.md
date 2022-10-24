@@ -1,0 +1,2 @@
+Abbreviazione di __Integrated Service Digital Network__ è l'evoluzione della telefonia analogica, sostituiva la linea telefonica analogica commutata con una linea digitale commutata.
+Per questo non c'era bisogno di un [[modem]] in quanto la linea ISDN è già di tipo digitale.

@@ -1,0 +1,1 @@
+Abbreviazione di __Point-to-Point Protocol__ che assegna dinamicamente gli [[indirizzo IP|indirizzi IP]] per il sono tempo della connessione.

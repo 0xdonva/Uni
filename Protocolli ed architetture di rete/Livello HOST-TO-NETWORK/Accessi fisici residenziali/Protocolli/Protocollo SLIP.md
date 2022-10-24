@@ -1,0 +1,1 @@
+Abbreviazione di __Serial Line Internet Protocol__ consentiva un'assegnazione statica di [[indirizzo IP|indirizzi IP]] ad ogni computer che si collega.
