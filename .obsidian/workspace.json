@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68c3707ee711e6f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber-Phisical Security/Tipi di attacchi/Senza nome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +111,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d841095e1be0e84f",
+  "active": "68c3707ee711e6f0",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
     "Cyber-Phisical Security/Malware.md",
     "Cyber-Phisical Security/Vulnerabilità Applicazioni - Local Injection/Software e bug.md",
     "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
@@ -109,7 +122,6 @@
     "Protocolli ed architetture di rete/Livello 3 - Network/Protocollo di routing.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Tabella di routing.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Internet.md"
+    "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md"
   ]
 }
