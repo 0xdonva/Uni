@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a7eb21a4a4aa80e1",
+        "id": "f7b1b402d19e0544",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7344b706bc4647",
+            "id": "a4d3cf6b68b65370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Virus.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c4b56c1731c2b8a",
+            "id": "1124777fff1be8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Worm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525a66a6ef86101e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Spyware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccbe615911fd965c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP locali.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP locali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +112,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ccbe615911fd965c",
+  "active": "1124777fff1be8af",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Ethernet.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
+    "Linguaggi dinamici/Python/Parametro.md",
+    "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
     "Cyber-Phisical Security/Tipi di malware/Spyware.md",
     "Cyber-Phisical Security/Tipi di malware/Worm.md",
     "Cyber-Phisical Security/Tipi di malware/Virus.md",
     "Cyber-Phisical Security/Tipi di malware/Trojan.md",
-    "Cyber-Phisical Security/Malware.md",
-    "Gestione dell'informazione/Full-Text Indexing/Indici.md",
-    "Linguaggi dinamici/Python/Istruzioni/Return.md",
-    "Parametro.md",
-    "Linguaggi dinamici/Python/Funzione.md",
-    "Linguaggi dinamici/Python/Funzioni/Range.md"
+    "Cyber-Phisical Security/Malware.md"
   ]
 }
