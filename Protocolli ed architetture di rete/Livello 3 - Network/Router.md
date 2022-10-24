@@ -12,5 +12,6 @@ Estrae l’[[indirizzo IP]] del destinatario `D` dall’header del pacchetto e d
 2. Se la tabella contiene un router per la rete `N`, invia il pacchetto al next-hop router specificato nella tabella. 
 3. Se la tabella contiene un router di default, invia il pacchetto a quel router.
 4. Altrimenti, si verifica un errore di routing.
-
-### Problemi del routing
+Per effettuare tutte queste operazioni in modo tale fornire un servizio best effort anche quando privo di connessione sfrutta due funzioni:
+1. [[IP forwarding]]: in cui ad ogni pacchetto in ingresso, viene determinato il link di uscita in modo tale che il pacchetto si avvicini alla destinazione.
+2. [[Protocollo di routing]]: serve per mantenere le informazioni aggiornate per fornire l'[[IP forwarding]].
