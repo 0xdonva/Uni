@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b1b402d19e0544",
+        "id": "eebc2e762925f3b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d3cf6b68b65370",
+            "id": "8bf6ad8cd9f7ebd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1124777fff1be8af",
+            "id": "bc7bb97df3670d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP locali.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Modem.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP locali.md",
+                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Modem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +105,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1124777fff1be8af",
+  "active": "2386e993ddc732de",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso dial-up.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Internet.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/ISP.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Autonomous system.md",
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Protocollo ARP.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Ethernet.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
     "Linguaggi dinamici/Python/Parametro.md",
-    "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
-    "Cyber-Phisical Security/Tipi di malware/Spyware.md",
-    "Cyber-Phisical Security/Tipi di malware/Worm.md",
-    "Cyber-Phisical Security/Tipi di malware/Virus.md",
-    "Cyber-Phisical Security/Tipi di malware/Trojan.md",
-    "Cyber-Phisical Security/Malware.md"
+    "Cyber-Phisical Security/Tipi di malware/Ransomware.md"
   ]
 }
