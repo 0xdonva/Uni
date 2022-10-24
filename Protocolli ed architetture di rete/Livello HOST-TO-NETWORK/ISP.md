@@ -1,3 +1,3 @@
 Un __ISP__ locale è un [[autonomous system]] per la connettività residenziale.
 L'_[[Internet]] service provider_ o (__ISP__) locale possiede uno o più [[router]] e [[server]] attivi collegati ad internet in modo _permanente_ e delle _centraline_ distribuite sul territorio per il _collegamento dell'ultimo miglio_.
-Ogni utenza ha un apparato di rete che gli consente di collegarsi a livello H2N alla centralina dell'ISP, solitamente ha a disposizione un [[indirizzo IP]] per accedere a [[Internet]].
+Ogni utenza ha un apparato di rete che gli consente di collegarsi a livello H2N alla centralina dell'ISP, solitamente ha a disposizione un [[Indirizzo IP]] per accedere a [[Internet]].

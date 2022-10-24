@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eebc2e762925f3b3",
+        "id": "007d4fcf51468cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "5fe844d5142cbd33",
+            "id": "74114cf5b45cc58a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Protocollo di routing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c09dd2c93c87dc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -91,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +93,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c09dd2c93c87dc0c",
+  "active": "74114cf5b45cc58a",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Protocollo di routing.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Tabella di routing.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
@@ -122,7 +104,6 @@
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso ISDN.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso xDSL.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Protocolli/Protocollo PPP.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Protocolli/Protocollo SLIP.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Modem.md"
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Protocolli/Protocollo SLIP.md"
   ]
 }

@@ -1,1 +1,1 @@
-Abbreviazione di __Serial Line Internet Protocol__ consentiva un'assegnazione statica di [[indirizzo IP|indirizzi IP]] ad ogni computer che si collega.
+Abbreviazione di __Serial Line Internet Protocol__ consentiva un'assegnazione statica di [[Indirizzo IP|indirizzi IP]] ad ogni computer che si collega.
