@@ -10,3 +10,5 @@ Gli APT sono tipicamente organizzazioni para-statali, ma possono anche essere or
 5. __Installare varie utilities__: queste utilities vengono installati sulla rete della vittima per amministrare il sistema, come per esempio: installare backdoor, ottenere password, ottenere email, ecc.
 6. __Privilege escalation, lateral movement e esfiltrazione di dati__: in questa fase solitamente fanno un backup del server e lo scaricano nei loro sistemi.
 7. __Mantenere l'accesso__: se l'attaccante ha la sensazione di essere osservato può lasciare la rete finché le acque non si calmano lasciando comunque un [[malware]] per mantenere l'accesso.
+
+[La prevenzione per advanced persistent threat (flashstart.com)](https://flashstart.com/it/la-prevenzione-per-advanced-persistent-threat/#5-le-fasi-dellattacco-apt)
