@@ -22,5 +22,5 @@ Contiene i dati reali, l'unità massima trasferibile è 1500 byte, se i dati la 
 
 ### CRC
 CRC è l'acronimo di _Controllo a Rindondanza Ciclica_ il cui scopo è di permettere all'adattatore che riceve i dati di rilevare la presenza di un errore nei bit del frame ricevuto.
-Questo campo viene calcolato dall'host quando trasmette il frame, lo ottiene dalla correlazione degli altri bit del frame escluso il preambolo.
+Questo campo viene calcolato dal host quando trasmette il frame, lo ottiene dalla correlazione degli altri bit del frame escluso il preambolo.
 Quando un host riceve ricalcola il CRC per vedere se tutto corrisponde.
