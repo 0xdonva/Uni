@@ -25,4 +25,11 @@ Gli indirizzi _CIDR_ richiedono l'utilizzo di strutture dati e algoritmi opportu
 
 ## Assegnamento indirizzi IP
 Gli _indirizzi IP_ sono indirizzi _logici_, ciascun host deve essere identificato da un indirizzo IP, che può essere assegnato o permanentemente o dinamicamente al momento del boot.
-Questo può
+Questo può essere fatto o attraverso la configurazione manuale del file di rete oppure grazie al [[protocollo DHCP]].
+
+## Indirizzi IP speciali
+_Indirizzo di rete_ o _network address_: con tutti i bit dell'hostid uguali a 0, es. `128.211.0.0`
+_Indirizzo diretto di broadcast_ o _directed broadcast address_: con tutti i bit del hostid uguali a 1, es. `128.211.255.255`
+_Limited broadcast address_: tutti i bit uguali a 1, es. `255.255.255.255` questo permette il broadcast sulla rete fisica locale.
+_Nessun indirizzo IP_: tutti i bit pari a 0, es. `0.0.0.0`
+_Indirizzo di Loopback (localhost)_: è un indirizzo software virtuale ch
