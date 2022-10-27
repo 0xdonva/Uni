@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Frame Ethernet.md",
+                "file": "Gestione dell'informazione/Full-Text Indexing/Indici.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Frame Ethernet.md",
+                "file": "Gestione dell'informazione/Full-Text Indexing/Indici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,7 @@
   },
   "active": "715332708b056dfa",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Frame Ethernet.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Gestione dell'informazione/Full-Text Indexing/Indici.md",
     "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
@@ -109,7 +109,6 @@
     "Cyber-Phisical Security/Tipi di malware/Virus.md",
     "Cyber-Phisical Security/Tipi di malware/Trojan.md",
     "Cyber-Phisical Security/Malware.md",
-    "Linguaggi dinamici/Python/Istruzioni/Return.md",
-    "Parametro.md"
+    "Linguaggi dinamici/Python/Istruzioni/Return.md"
   ]
 }
