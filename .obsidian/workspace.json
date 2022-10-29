@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7857f51c1c51f9aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "715332708b056dfa",
+  "active": "7857f51c1c51f9aa",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Protocollo di routing.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
@@ -106,7 +115,6 @@
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Frame Ethernet.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
-    "Cyber-Phisical Security/Tipi di malware/Spyware.md",
-    "Cyber-Phisical Security/Tipi di malware/Worm.md"
+    "Cyber-Phisical Security/Tipi di malware/Spyware.md"
   ]
 }
