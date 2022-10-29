@@ -33,3 +33,5 @@ _Indirizzo diretto di broadcast_ o _directed broadcast address_: con tutti i bit
 _Limited broadcast address_: tutti i bit uguali a 1, es. `255.255.255.255` questo permette il broadcast sulla rete fisica locale.
 _Nessun indirizzo IP_: tutti i bit pari a 0, es. `0.0.0.0`
 _Indirizzo di Loopback (localhost)_: è un indirizzo software virtuale senza corrispettivo hardware e senza connessioni di rete `127.0.0.1`
+
+## Reti private e semi-private
