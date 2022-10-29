@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "715332708b056dfa",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Protocollo di routing.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Router.md",
@@ -109,7 +110,6 @@
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Frame Ethernet.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Cyber-Phisical Security/Tipi di malware/Ransomware.md",
-    "Cyber-Phisical Security/Tipi di malware/Spyware.md",
-    "Cyber-Phisical Security/Tipi di malware/Worm.md"
+    "Cyber-Phisical Security/Tipi di malware/Spyware.md"
   ]
 }
