@@ -40,3 +40,5 @@ Le __reti semi-private__ sono reti in cui esistono tre tipi di host:
 1. _Nessun accesso_: da/a host fuori dalla rete.
 2. _Accesso parziale_: host che possono raggiungere ma non sono raggiungibili dall'esterno.
 3. _Accesso completo_: pochi host come per esempio il server Web.
+Grazie alle reti semi-private, una rete può essere progettata con host visibili da internet (_host pubblici_) e host non visibili (_host privati_).
+Gli _host privati_ possono scambiare pacchetti o solo con altri host privati presenti sulla rete o tramite dei [[NAT router]] all'esterno della rete.
