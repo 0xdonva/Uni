@@ -35,3 +35,8 @@ _Nessun indirizzo IP_: tutti i bit pari a 0, es. `0.0.0.0`
 _Indirizzo di Loopback (localhost)_: è un indirizzo software virtuale senza corrispettivo hardware e senza connessioni di rete `127.0.0.1`
 
 ## Reti private e semi-private
+Le __reti private__ sono reti di calcolatori in cui nessun pacchetto entra o esce dalla rete, quindi gli indirizzi devono essere univoci solo all'interno della rete privata.
+Le __reti semi-private__ sono reti in cui esistono tre tipi di host:
+1. _Nessun accesso_: da/a host fuori dalla rete.
+2. _Accesso parziale_: host che possono raggiungere ma non sono raggiungibili dall'esterno.
+3. _Accesso completo_: pochi host come per esempio il server Web.
