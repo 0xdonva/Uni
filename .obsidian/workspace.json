@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef96311b8e598863",
+        "id": "6405c02613803c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a3ab2ade1dccbeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b489242032abc6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec82a75715d62d61",
+            "id": "a033e6f063851ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ec82a75715d62d61",
+  "active": "a033e6f063851ada",
   "lastOpenFiles": [
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Botnet.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Smurf.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/Flooding.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Land.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Teardrop.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/WinNuke.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/Ping of Death.md"
+    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md"
   ]
 }
