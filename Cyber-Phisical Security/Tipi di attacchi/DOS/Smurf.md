@@ -1,0 +1,2 @@
+Lo __smurf__ è un tipo di attacco che consiste nell'invio di pacchetti ICMP `echo` all'indirizzo di broadcast di una rete.
+Lo smurf fa uso del protocollo ICMP e dei pacchetti ICMP `echo (ping)`: un pacchetto ICMP viene inviato all'indirizzo di broadcast di una rete host e tutti gli host (che ricevono il ping) generano pacchetti ICMP `echo (pong)` verso quello che ritengono essere l'IP sorgente.
