@@ -1,7 +1,7 @@
 Un __agente__ è qualcuno che agisce in nome di qualcun altro, ovvero agenzia. 
 Ha uno scopo ben preciso e deve agire su delega, senza però essere controllato da qualcuno.
 Nel mondo reale esempio esistono gli agenti di commercio, di viaggio, immobiliari..
-Nel Informatica, un agente è un’unità computazionale (un software od un robot, magari) cioè in grado di manipolare informazione. Esso può agire e percepire l’ambiente attorno ad esso, ed ha un comportamenti autonomi, i quali sono almeno in parte legati al esperienza personale. Quindi può interagire con l’ambiente e altri agenti, possedere tendenze, offrire servizi ma anche riprodursi.
+Nel Informatica, un agente è _un’unità computazionale_ (un software od un robot, magari) cioè in grado di manipolare informazione. Esso può _agire_ e _percepire_ l’_ambiente_ attorno ad esso, ed ha un comportamenti autonomi, i quali sono almeno in parte legati al esperienza personale. Quindi può interagire con l’ambiente e altri agenti, possedere tendenze, offrire servizi ma anche riprodursi.
 L’agente possiede un _set di regole_ e delle _variabili interne_ (lo stato dell’agente) che possono sia essere costanti sia variare durante la sua vita.
 
 Quando si parla di agente , lo si può fare in due modi:
