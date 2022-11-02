@@ -9,5 +9,5 @@ DOS che sfruttano bug, vulnerabilità, cattive configurazioni del sistema operat
 - [[WinNuke]]
 - [[Land]]
 DOS per esaurimento di risorse:
-- DOS: Smurf e SYN flood
+- DOS: [[Smurf]] e [[Flooding]]
 - [[DDOS]]
