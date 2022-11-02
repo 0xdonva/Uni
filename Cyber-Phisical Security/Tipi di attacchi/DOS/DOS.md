@@ -6,8 +6,8 @@ L'attacco __Denial of Service__ o __DOS__ indica una negazione del servizio che 
 DOS che sfruttano bug, vulnerabilità, cattive configurazioni del sistema operativo:
 - [[Ping of Death]]
 - [[Teardrop]]
-- WinNuke
-- Land
+- [[WinNuke]]
+- [[Land]]
 DOS per esaurimento di risorse:
 - DOS: Smurf e SYN flood
 - [[DDOS]]

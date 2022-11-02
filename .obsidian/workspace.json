@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a32e640bb813dae",
+            "id": "0a3ab2ade1dccbeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Teardrop.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS/Land.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Teardrop.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS/Land.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a32e640bb813dae",
+  "active": "0a3ab2ade1dccbeb",
   "lastOpenFiles": [
-    "Cyber-Phisical Security/Tipi di attacchi/DOS.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Teardrop.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/WinNuke.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
-    "Cyber-Phisical Security/Tipi di attacchi/Ping of Death.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Ping of Death.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/NAT router.md",
     "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
     "Gestione dell'informazione/Text operations/Word Similarity.md",
     "Gestione dell'informazione/Text operations/Document Preprocessing.md",
-    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Thesaurus.md",
-    "Gestione dell'informazione/Information Retrieval.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md"
+    "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Thesaurus.md"
   ]
 }

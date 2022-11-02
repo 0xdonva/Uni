@@ -1,0 +1,3 @@
+__WinNuke__ è un attacco di tipo [[DOS]] da remoto mediante l'invio di pacchetti malformati, solo i vecchi sistemi Windows 9x/NT sono affetti da questo attacco.
+__WinNuke__ prevede l'invio di un pacchetto _OOB_ (_Out of Band_ con bit URG=1) malformato alla _porta TCP 139_.
+Questo problema è dovuto ad un errore di progettazione della funzione che si occupa di NetBIOS: non controlla la struttura dei pacchetti _OOB_.
