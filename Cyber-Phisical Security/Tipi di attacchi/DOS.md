@@ -4,9 +4,10 @@ L'attacco __Denial of Service__ o __DOS__ indica una negazione del servizio che 
 
 ## Tipi di attacchi DOS
 DOS che sfruttano bug, vulnerabilità, cattive configurazioni del sistema operativo:
-- Ping of Death
+- [[Ping of Death]]
+- [[Teardrop]]
 - WinNuke
 - Land
 DOS per esaurimento di risorse:
 - DOS: Smurf e SYN flood
-- DDOS
+- [[DDOS]]

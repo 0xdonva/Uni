@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "83c5c53badbe0ff3",
+        "id": "ef96311b8e598863",
         "type": "tabs",
         "children": [
           {
-            "id": "36b116cc5246c968",
+            "id": "b6c7e8d48c1ade71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/DOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b997645894e23f6c",
+            "id": "1a32e640bb813dae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/NAT router.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/Teardrop.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/NAT router.md",
+                "file": "Cyber-Phisical Security/Tipi di attacchi/Teardrop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b997645894e23f6c",
+  "active": "1a32e640bb813dae",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Tipi di attacchi/DOS.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
+    "Cyber-Phisical Security/Tipi di attacchi/Ping of Death.md",
+    "Protocolli ed architetture di rete/Livello 3 - Network/NAT router.md",
     "Gestione dell'informazione/Text operations/Word Sense Disambiguation.md",
     "Gestione dell'informazione/Text operations/Word Similarity.md",
     "Gestione dell'informazione/Text operations/Document Preprocessing.md",
     "Gestione dell'informazione/Text operations/Fasi del Document Preprocessing/Thesaurus.md",
     "Gestione dell'informazione/Information Retrieval.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Hub.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Rete LAN.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Bridge.md"
+    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Switch.md"
   ]
 }
