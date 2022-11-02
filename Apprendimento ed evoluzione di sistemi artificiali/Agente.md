@@ -21,18 +21,12 @@ Di un agente è inoltre possibile valutare caratteristiche come:
 - la _razionalità_ (le azioni dell’agente sono concordi con il suo obiettivo)
 
 In base al loro processo decisionale, gli agenti vengono divisi in:
-- Logici (Logic-based) : deduzioni logiche, agenti il cui processo decisionale è affidato ad una serie di elaborazioni di tipo logico.
-- Reattivi (Reactive): mappature dirette situazione-azione, l’azione successiva è generalmente stabilita da un evento che accade (ad esempio, agente reattivo è il roomba, perché ha una logica del tipo: ho sbattuto contro a un muro, come reagisco? Mi giro un po’ e continuo a pulire).
-- BDI (Belief-desire-intention): gli agenti BDI prendono decisioni sulla base di strutture dati che sono in essi contenuti, che rappresentano il Belief, il Desire e l’Intention. Manipolazione di strutture dati che rappresentano aspettative (idee sul mondo), desideri (motivazioni interne) ed intenzioni (stati deliberativi).
-- Layered : gli agenti layered sono costruiti a strati, ciascuno dei quali è più o meno dotato di capacità cognitive riguardo l’ambiente.
-In base alla natura dell’obiettivo, l’agente ha dei diversi comportamenti: si dice riflessivo
-se è regolato dalle proprie percezioni interne (ad esempio, se l’agente deve spostare
-l’oggetto A, ma ha fame, l’obiettivo diventa il trovare cibo)
-mentre si dice teleonomico se è diretto verso un obiettivo esplicito.
-Un’ultima distinzione tra agenti è in base al modo in cui l’agente percepisce e rappresenta
-il mondo:
-● Cognitivi: attingono da una rappresentazione esplicita del mondo e questo gli
-consente di elaborare strategie, pianificare il proprio comportamento e prevedere le
-conseguenze delle proprie azioni.
-● Reattivi: con rappresentazione sub-simbolica del mondo mediante esempio regole.
+- _Logici_ (Logic-based) : deduzioni logiche, agenti il cui processo decisionale è affidato ad una serie di elaborazioni di tipo logico.
+- _Reattivi_ (Reactive): mappature dirette situazione-azione, l’azione successiva è generalmente stabilita da un evento che accade (ad esempio, agente reattivo è il roomba, perché ha una logica del tipo: ho sbattuto contro a un muro, come reagisco? Mi giro un po’ e continuo a pulire).
+- _BDI_ (Belief-desire-intention): gli agenti BDI prendono decisioni sulla base di strutture dati che sono in essi contenuti, che rappresentano il Belief, il Desire e l’Intention. Manipolazione di strutture dati che rappresentano aspettative (idee sul mondo), desideri (motivazioni interne) ed intenzioni (stati deliberativi).
+- _Layered_ : gli agenti layered sono costruiti a strati, ciascuno dei quali è più o meno dotato di capacità cognitive riguardo l’ambiente.
+In base alla _natura dell’obiettivo_, l’agente ha dei diversi comportamenti: si dice _riflessivo_ se è regolato dalle proprie percezioni interne (ad esempio, se l’agente deve spostare l’oggetto A, ma ha fame, l’obiettivo diventa il trovare cibo) mentre si dice _teleonomico_ se è diretto verso un obiettivo esplicito.
+Un’ultima distinzione tra agenti è in base al modo in cui l’agente _percepisce e rappresenta il mondo_:
+- _Cognitivi_: attingono da una rappresentazione esplicita del mondo e questo gli consente di elaborare strategie, pianificare il proprio comportamento e prevedere le conseguenze delle proprie azioni.
+- _Reattivi_: con rappresentazione sub-simbolica del mondo mediante esempio regole.
 Possono solo reagire ad eventi, non si attengono a piani prestabiliti.

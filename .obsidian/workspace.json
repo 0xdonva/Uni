@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0ec5bc84b10a34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
+                "file": "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +118,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c266466116db7a33",
+  "active": "c0ec5bc84b10a34b",
   "lastOpenFiles": [
+    "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Botnet.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md",
@@ -115,7 +129,6 @@
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Land.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Teardrop.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/WinNuke.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md"
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/WinNuke.md"
   ]
 }
