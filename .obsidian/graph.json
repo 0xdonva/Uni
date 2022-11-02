@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5984992
       }
+    },
+    {
+      "query": "path:\"Apprendimento ed evoluzione di sistemi artificiali\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
     }
   ],
   "collapse-display": true,
