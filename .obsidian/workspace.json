@@ -42,19 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a32932c7fce1311",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi e strutture dati/Struttura dati.md",
+                "file": "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a32932c7fce1311",
+  "active": "c266466116db7a33",
   "lastOpenFiles": [
     "Algoritmi e strutture dati/Algoritmo.md",
+    "Algoritmi e strutture dati/Struttura dati.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Botnet.md",
@@ -150,7 +139,6 @@
     "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Smurf.md",
     "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/Flooding.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/Land.md"
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md"
   ]
 }
