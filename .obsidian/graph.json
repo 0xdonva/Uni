@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16711914
       }
+    },
+    {
+      "query": "path:\"Algoritmi e strutture dati\"",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
     }
   ],
   "collapse-display": true,
@@ -61,5 +68,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.16050987062383795,
-  "close": true
+  "close": false
 }
