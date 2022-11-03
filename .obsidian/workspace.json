@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a32932c7fce1311",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa6385d10e65265b",
+  "active": "7a32932c7fce1311",
   "lastOpenFiles": [
     "Algoritmi e strutture dati/Algoritmo.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
