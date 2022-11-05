@@ -1,3 +1,3 @@
 L'__[[Internet]] Protocol__ è un protocollo di rete, che si occupa di indirizzamento/[[Protocollo di routing|instradamento]], appartiene alla suite di protocolli TCP/IP su cui è basato il funzionamento di [[Internet]].
 È un protocollo di _interconnessione di reti_ nato per interconnetere reti eterogenee per tecnologia, prestazioni, gestione e pertanto implementato sopra altri protocolli di livello collegamento, come [[Ethernet]].
-Correntemente sono usate due versioni del protocollo IP, l'originaria _versione 4_ e la 
+Correntemente sono usate due versioni del protocollo IP, l'originaria _versione 4_ e la più recente _versione 6_, nata dall'esigenza di gestire meglio il crescente numero di host connessi ad [[Internet]].

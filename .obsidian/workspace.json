@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP Datagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP Datagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +163,7 @@
   },
   "active": "7431cb5bd36d6d3e",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello 3 - Network/IP.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/IP Datagram.md",
     "Protocolli ed architetture di rete/Enti/IANA.md",
@@ -171,7 +172,6 @@
     "Cyber-Phisical Security/Vulnerabilità Applicazioni - Local Injection/Code Injection.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Algoritmi e strutture dati/Algoritmo.md",
-    "Algoritmi e strutture dati/Struttura dati.md",
-    "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md"
+    "Algoritmi e strutture dati/Struttura dati.md"
   ]
 }
