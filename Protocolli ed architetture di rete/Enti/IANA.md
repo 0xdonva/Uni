@@ -4,3 +4,4 @@ Aveva un struttura estremamente decentralizzata in cui esiste soltanto un coordi
 - Definizione ed accettazione degli standard.
 - Distribuzione della documentazione.
 - Assegnazione degli indirizzi e dei nomi.
+Dal 1998 la IANA viene messa sotto il controllo della [[ICANN]], la quale incorpora tutte le responsabilità che in precedenza appartenevano all'IANA, anche se delega a IANA stessa alcune funzioni di gestione come l'allocazione di spazio di indirizzo IP.

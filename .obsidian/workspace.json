@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "c77ebed37b84d64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7431cb5bd36d6d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28ab9996b850b285",
             "type": "leaf",
             "state": {
@@ -52,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolli ed architetture di rete/Enti/IANA.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfdaaea535bc2349",
+  "active": "7431cb5bd36d6d3e",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
+    "Protocolli ed architetture di rete/Livello 3 - Network/IP Datagram.md",
+    "Protocolli ed architetture di rete/Enti/IANA.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Modem.md",
     "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso xDSL.md",
     "Cyber-Phisical Security/Vulnerabilità Applicazioni - Local Injection/Code Injection.md",
     "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
     "Algoritmi e strutture dati/Algoritmo.md",
     "Algoritmi e strutture dati/Struttura dati.md",
-    "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/Botnet.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md"
+    "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md"
   ]
 }
