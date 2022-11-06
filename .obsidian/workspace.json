@@ -4,75 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1ba4c0099d5ab297",
+        "id": "3534a83625c901ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c266466116db7a33",
+            "id": "b1b9f50bf7554b4e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "dfdaaea535bc2349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolli ed architetture di rete/Enti/IANA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c77ebed37b84d64a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7431cb5bd36d6d3e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "28ab9996b850b285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmi e strutture dati/Algoritmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6385d10e65265b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmi e strutture dati/Struttura dati.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7431cb5bd36d6d3e",
+  "active": "b1b9f50bf7554b4e",
   "lastOpenFiles": [
-    "Protocolli ed architetture di rete/Livello 3 - Network/IP Datagram.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/IP.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/Indirizzo IP.md",
-    "Protocolli ed architetture di rete/Enti/IANA.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Architetture reti Ethernet/Modem.md",
-    "Protocolli ed architetture di rete/Livello HOST-TO-NETWORK/Accessi fisici residenziali/Modalità di accesso/Accesso xDSL.md",
-    "Cyber-Phisical Security/Vulnerabilità Applicazioni - Local Injection/Code Injection.md",
-    "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
+    "Algoritmi e strutture dati/Struttura dati.md",
     "Algoritmi e strutture dati/Algoritmo.md",
-    "Algoritmi e strutture dati/Struttura dati.md"
+    "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
+    "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Botnet.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Smurf.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/Flooding.md",
+    "Cyber-Phisical Security/Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md"
   ]
 }
