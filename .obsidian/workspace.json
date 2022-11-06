@@ -11,8 +11,12 @@
             "id": "b1b9f50bf7554b4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
