@@ -56,4 +56,11 @@ I parametri keyword devono sempre _seguire quelli posizionali_ nella definizione
 
 ## Numero indeterminato di parametri
 Nella definizione di una funzione si può specificare che il _numero di parametri è variabile_.
-La variabilità può riguardare sia i parametri _posizionali_ che i parametri _keyword_, un nome preceduto da _un asterisco_ indica la presenza di 0 o più parametri posizionali 
+La variabilità può riguardare sia i parametri _posizionali_ che i parametri _keyword_, un nome preceduto da _un asterisco_ indica la presenza di 0 o più parametri posizionali mentre un nome preceduto da _due asterischi_ indica la presenza di 0 o più parametri keyword.
+```python
+def f(x, *y, a=5, **z):
+    print(x)
+    print(y)
+    print(a)
+    print(z)
+```
