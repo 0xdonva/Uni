@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Funzioni/Range.md",
+                "file": "Linguaggi dinamici/Python/Parametro.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Funzioni/Range.md",
+                "file": "Linguaggi dinamici/Python/Parametro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +120,15 @@
   },
   "active": "8c21c3a14c8c04b9",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Strutture di Dati/Strutture implicite.md",
+    "Linguaggi dinamici/Python/Istruzioni/Return.md",
+    "Linguaggi dinamici/Python/Parametro.md",
+    "Linguaggi dinamici/Python/Funzione.md",
+    "Linguaggi dinamici/Python/Funzioni/Range.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Struttura implicita.md",
     "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
     "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
     "Algoritmi e strutture dati/Struttura dati.md",
     "Algoritmi e strutture dati/Algoritmo.md",
-    "Apprendimento ed evoluzione di sistemi artificiali/Agente.md",
-    "Apprendimento ed evoluzione di sistemi artificiali/Sistemi multiagente.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/Botnet.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/DOS.md",
-    "Cyber-Phisical Security/Tipi di attacchi/DOS/DDOS.md"
+    "Apprendimento ed evoluzione di sistemi artificiali/Agente.md"
   ]
 }
