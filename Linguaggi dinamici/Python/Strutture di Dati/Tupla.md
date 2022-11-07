@@ -1,4 +1,4 @@
-La __tupla__ è un tipo di dato _immutable_, è una sequenza lineare di oggetti, _di qualsiasi tipo_.
+La __tupla__ è un tipo di [[dato]] _immutable_, è una sequenza lineare di oggetti, _di qualsiasi tipo_.
 L'accesso ai singoli elementi di una tupla si realizza mediante un _indice numerico_ incluso fra parentesi quadre, oppure si può accedere a sequenze contigue tramite la notazione `[inizio:fine]`.
 La _rappresentazione esterna_ prevede di separare da virgole gli elementi della struttura, racchiudendoli fra parentesi tonde.
 Il numero di elementi che compongono la struttura ne costituisce la _lunghezza_.

@@ -46,16 +46,16 @@ f(z)
 I parametri vengono definiti __posizionali__ perché, se il nome non viene specificato, il sistema procede sempre con l'ordine dettato dalla posizione.
 
 ### Keyword
-I parametri formali di una funzione possono prevedere un _valore di default_.
+I parametri formali di una [[funzione]] possono prevedere un _valore di default_.
 ```python
 def f(...,<nome>=<oggetto>,...)
 ```
-Questo perché in fase di chiamata se il corrispondente argomento non viene indicato, nella funzione il binding iniziale del parametro sarà con l'_oggetto presente nella definizione_.
+Questo perché in fase di chiamata se il corrispondente argomento non viene indicato, nella [[funzione]] il binding iniziale del parametro sarà con l'_oggetto presente nella definizione_.
 Il binding dei parametri con valore di default (chiamati anche parametri __keyword__) può essere fatto secondo la posizione oppure specificando il nome.
 I parametri keyword devono sempre _seguire quelli posizionali_ nella definizione.
 
 ## Numero indeterminato di parametri
-Nella definizione di una funzione si può specificare che il _numero di parametri è variabile_.
+Nella definizione di una [[funzione]] si può specificare che il _numero di parametri è variabile_.
 La variabilità può riguardare sia i parametri _posizionali_ che i parametri _keyword_, un nome preceduto da _un asterisco_ indica la presenza di 0 o più parametri posizionali mentre un nome preceduto da _due asterischi_ indica la presenza di 0 o più parametri keyword.
 ```python
 def f(x, *y, a=5, **z):

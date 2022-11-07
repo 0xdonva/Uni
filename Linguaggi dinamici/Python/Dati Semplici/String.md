@@ -34,4 +34,4 @@ print(M)
 Queste stringhe vengono comunemente usate per _i commenti_, anche se erroneamente, in realtà queste vengono sempre valutate dall'interprete ma il loro valore viene perduto.
 
 ### Docstring
-Una __docstring__ è una stringa inserita _immediatamente dopo la definizione_ di una funzione, queste giocano un ruolo molto importante nella documentazione della funzione/classe perché vengono restituite dall'interprete come risultato dell'invocazione di aiuto ([[help]]).
+Una __docstring__ è una stringa inserita _immediatamente dopo la definizione_ di una [[funzione]], queste giocano un ruolo molto importante nella documentazione della [[funzione]]/classe perché vengono restituite dall'interprete come risultato dell'invocazione di aiuto ([[help]]).

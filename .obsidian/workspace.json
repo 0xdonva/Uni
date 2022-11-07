@@ -23,12 +23,8 @@
             "id": "8c21c3a14c8c04b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Funzione.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -90,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Funzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,25 +104,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "8c21c3a14c8c04b9",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Dati Semplici/String.md",
+    "Linguaggi dinamici/Python/Variabile.md",
+    "Linguaggi dinamici/Python/Python.md",
     "Linguaggi dinamici/Python/Parametro.md",
-    "Linguaggi dinamici/Python/Istruzioni/Return.md",
+    "Linguaggi dinamici/Python/Metodo magico.md",
+    "Linguaggi dinamici/Python/Iteratore.md",
     "Linguaggi dinamici/Python/Funzione.md",
-    "Linguaggi dinamici/Python/Funzioni/Range.md",
-    "Linguaggi dinamici/Python/Strutture di Dati/Struttura implicita.md",
-    "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
-    "Protocolli ed architetture di rete/Livello 3 - Network/IP forwarding.md",
-    "Algoritmi e strutture dati/Struttura dati.md",
-    "Algoritmi e strutture dati/Algoritmo.md"
+    "Linguaggi dinamici/Python/Dynamic Typing.md",
+    "Linguaggi dinamici/Python/Dato.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Tupla.md",
+    "Linguaggi dinamici/Python/Strutture di Dati/Lista.md"
   ]
 }

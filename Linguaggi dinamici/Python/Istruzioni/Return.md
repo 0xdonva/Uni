@@ -8,4 +8,4 @@ def sign(x):
 		return -1
 	return 1
 ```
-Una [[funzione]] può anche restituire più di un valore, le quali vengono "impacchettate" in una tupla che andrà successivamente "spacchettata".
+Una [[funzione]] può anche restituire più di un valore, le quali vengono "impacchettate" in una [[tupla]] che andrà successivamente "spacchettata".
