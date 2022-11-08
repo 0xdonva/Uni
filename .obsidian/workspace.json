@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3534a83625c901ee",
+        "id": "669b29b5f43f8b38",
         "type": "tabs",
         "children": [
           {
-            "id": "b1b9f50bf7554b4e",
+            "id": "3caccb37b268d0a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c21c3a14c8c04b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestione dell'informazione/Full-Text Indexing/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42c728d8f9b5f2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
+                "file": "Linguaggi dinamici/Python/Funzione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -103,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
+                "file": "Linguaggi dinamici/Python/Funzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42c728d8f9b5f2fb",
+  "active": "3caccb37b268d0a8",
   "lastOpenFiles": [
+    "Linguaggi dinamici/Python/Dati Semplici/String.md",
+    "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
     "Gestione dell'informazione/Full-Text Indexing/Index.md",
+    "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
     "Linguaggi dinamici/Python/Variabile.md",
     "Linguaggi dinamici/Python/Python.md",
     "Linguaggi dinamici/Python/Parametro.md",
     "Linguaggi dinamici/Python/Metodo magico.md",
     "Linguaggi dinamici/Python/Iteratore.md",
-    "Linguaggi dinamici/Python/Funzione.md",
-    "Linguaggi dinamici/Python/Dynamic Typing.md",
-    "Linguaggi dinamici/Python/Dato.md",
-    "Linguaggi dinamici/Python/Strutture di Dati/Tupla.md"
+    "Linguaggi dinamici/Python/Funzione.md"
   ]
 }

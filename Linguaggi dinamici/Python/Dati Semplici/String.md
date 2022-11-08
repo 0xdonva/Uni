@@ -35,3 +35,15 @@ Queste stringhe vengono comunemente usate per _i commenti_, anche se erroneament
 
 ### Docstring
 Una __docstring__ è una stringa inserita _immediatamente dopo la definizione_ di una [[funzione]], queste giocano un ruolo molto importante nella documentazione della [[funzione]]/classe perché vengono restituite dall'interprete come risultato dell'invocazione di aiuto ([[help]]).
+```jupyter
+def f(x, *y, a=5, **z):
+    '''Questa funzione esemplifica l'utilizzo di un numero imprecisato
+       di parametri, sia posizionali che keyword
+    '''
+    for v in y:
+        print(v)
+    for k,v in z.items():
+        print(f"{k}-->{v}")
+
+help(f)
+```
