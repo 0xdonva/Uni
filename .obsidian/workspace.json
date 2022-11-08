@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5b2b2cd9a2b8972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi dinamici/Python/Modulo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Decoratore.md",
+                "file": "Linguaggi dinamici/Python/Modulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a25a0670ff815c9",
+  "active": "c5b2b2cd9a2b8972",
   "lastOpenFiles": [
+    "Linguaggi dinamici/Python/Decoratore.md",
     "Linguaggi dinamici/Python/Funzione.md",
     "Linguaggi dinamici/Python/Namespace.md",
     "Linguaggi dinamici/Python/Lexical scoping.md",
@@ -127,7 +140,6 @@
     "Gestione dell'informazione/Full-Text Indexing/Index.md",
     "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
     "Linguaggi dinamici/Python/Variabile.md",
-    "Linguaggi dinamici/Python/Python.md",
-    "Linguaggi dinamici/Python/Parametro.md"
+    "Linguaggi dinamici/Python/Python.md"
   ]
 }

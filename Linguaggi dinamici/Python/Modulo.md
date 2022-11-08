@@ -1,0 +1,3 @@
+In [[Python]] un __modulo__ non è nient'altro che un file contenente _definizioni e istruzioni del linguaggio_.
+Un file può essere eseguito ma può essere anche utilizzato come _libreria_ dalla quale importare definizioni.
+Perché ciò sia possibile, la directory contenente il file python deve essere riconosciuta come _package_ e, per questo scopo, è sufficiente che essa contenga un file (anche vuoto) di nome `__init__.py`
