@@ -1,0 +1,1 @@
+Una [[funzione]] __decoratore__ è una funzione "decora" con _codice aggiuntivo_ un'altra
