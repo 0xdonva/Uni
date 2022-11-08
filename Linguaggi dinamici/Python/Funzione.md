@@ -26,3 +26,15 @@ square = lambda x: x**2   # Funzione anonima, assegnata "dopo" ad un identifica
 y = square(5)
 print(y)
 ```
+
+## Funzioni come valore di ritorno
+Una funzione può essere restituita come _risultato_ di un'altra funzione, purché la funzione restituita sia dipendente da qualche [[parametro]] _accessibile nel momento in cui essa viene definita_.
+```jupyter
+def f():
+    print("Questa funzione ne restituisce un'altra come risultato")
+    def g(x):
+        return x**2
+    return g
+square = f()
+square(2)
+```

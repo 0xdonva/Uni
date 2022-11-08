@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3caccb37b268d0a8",
+            "id": "3fc4dd0ca6d0cb56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "3fc4dd0ca6d0cb56",
+            "id": "6a25a0670ff815c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Namespace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "888c541b485898cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Lexical scoping.md",
+                "file": "Linguaggi dinamici/Python/Decoratore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Lexical scoping.md",
+                "file": "Linguaggi dinamici/Python/Decoratore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "888c541b485898cc",
+  "active": "6a25a0670ff815c9",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Namespace.md",
     "Linguaggi dinamici/Python/Funzione.md",
+    "Linguaggi dinamici/Python/Namespace.md",
+    "Linguaggi dinamici/Python/Lexical scoping.md",
     "Linguaggi dinamici/Python/Dati Semplici/String.md",
     "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
     "Gestione dell'informazione/Full-Text Indexing/Index.md",
     "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
     "Linguaggi dinamici/Python/Variabile.md",
     "Linguaggi dinamici/Python/Python.md",
-    "Linguaggi dinamici/Python/Parametro.md",
-    "Linguaggi dinamici/Python/Metodo magico.md"
+    "Linguaggi dinamici/Python/Parametro.md"
   ]
 }

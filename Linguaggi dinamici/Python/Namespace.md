@@ -4,3 +4,7 @@ Senza considerare le [[Classe|classi]], possiamo dire che in Python, rispetto al
 2. _Globale_: ogni modulo di cui è composto un dato programma.
 3. _Locale_: spazio riservato ad ogni [[funzione]].
 Per comprendere da quale _namespace_ viene risolto un determinato riferimento simbolico, dobbiamo considerare le _regole di visibilità_ (o regola di [[Lexical scoping|scope]]) adottate da Python.
+
+## Manipolazione dei namespace
+In Python i namespace, che altro non sono che tabelle associative, sono rappresentati esplicitamente come [[Dizionario|dizionari]].
+Sono cioè essi stessi strutture dati e, come tali, possono essere _manipolati dal programma_, al riguardo esistono due funzioni: [[globals]] e [[locals]].
