@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "433661724d90923a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Segmentazione e segregazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
+                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Segmentazione e segregazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +116,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "423e3cca0ad4ad81",
+  "active": "433661724d90923a",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
     "Linguaggi dinamici/Python/Funzione.md",
     "Linguaggi dinamici/Python/Decoratore.md",
     "Linguaggi dinamici/Python/Modulo.md",
@@ -114,7 +127,6 @@
     "Linguaggi dinamici/Python/Dati Semplici/String.md",
     "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
     "Gestione dell'informazione/Full-Text Indexing/Index.md",
-    "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
-    "Linguaggi dinamici/Python/Variabile.md"
+    "Gestione dell'informazione/Full-Text Indexing/Inverted index.md"
   ]
 }
