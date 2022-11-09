@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "669b29b5f43f8b38",
+        "id": "0739026115db4e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc4dd0ca6d0cb56",
+            "id": "423e3cca0ad4ad81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Funzione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a25a0670ff815c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Decoratore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b2b2cd9a2b8972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi dinamici/Python/Modulo.md",
+                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Modulo.md",
+                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5b2b2cd9a2b8972",
+  "active": "423e3cca0ad4ad81",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Decoratore.md",
     "Linguaggi dinamici/Python/Funzione.md",
+    "Linguaggi dinamici/Python/Decoratore.md",
+    "Linguaggi dinamici/Python/Modulo.md",
     "Linguaggi dinamici/Python/Namespace.md",
     "Linguaggi dinamici/Python/Lexical scoping.md",
     "Linguaggi dinamici/Python/Dati Semplici/String.md",
     "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
     "Gestione dell'informazione/Full-Text Indexing/Index.md",
     "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
-    "Linguaggi dinamici/Python/Variabile.md",
-    "Linguaggi dinamici/Python/Python.md"
+    "Linguaggi dinamici/Python/Variabile.md"
   ]
 }
