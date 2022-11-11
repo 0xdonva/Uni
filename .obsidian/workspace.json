@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Segmentazione e segregazione.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Autonomous system.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Sicurezza nella rete locale/Segmentazione e segregazione.md",
+                "file": "Protocolli ed architetture di rete/Livello 3 - Network/Autonomous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "433661724d90923a",
   "lastOpenFiles": [
+    "Protocolli ed architetture di rete/Livello 3 - Network/Internet.md",
+    "Protocolli ed architetture di rete/Livello 3 - Network/Autonomous system.md",
+    "Cyber-Phisical Security/Sicurezza nella rete locale/Segmentazione e segregazione.md",
     "Cyber-Phisical Security/Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
     "Linguaggi dinamici/Python/Funzione.md",
     "Linguaggi dinamici/Python/Decoratore.md",
     "Linguaggi dinamici/Python/Modulo.md",
     "Linguaggi dinamici/Python/Namespace.md",
     "Linguaggi dinamici/Python/Lexical scoping.md",
-    "Linguaggi dinamici/Python/Dati Semplici/String.md",
-    "Linguaggi dinamici/Python/Strutture di Controllo/For.md",
-    "Gestione dell'informazione/Full-Text Indexing/Index.md",
-    "Gestione dell'informazione/Full-Text Indexing/Inverted index.md"
+    "Linguaggi dinamici/Python/Dati Semplici/String.md"
   ]
 }
