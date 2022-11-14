@@ -1,3 +1,3 @@
 A differenza di Java in python non esistono tipi di dati primitivi, infatti gli __interi__ sono degli oggetti e come tali possiedono metodi che possono essere manipolati.
-Per esempio la scrittura `x+y` è solo _zucchero sintattico_ per l'espressione `int.__add__(x,y)`, infatti `__add__` è un metodo della [[classe]], più precisamente è un così detto [[metodo magico]].
+Per esempio la scrittura `x+y` è solo _zucchero sintattico_ per l'espressione `int.__add__(x,y)`, infatti `__add__` è un metodo della [[Classe]], più precisamente è un così detto [[metodo magico]].
 In python non sono previste lunghezze diverse per gli _interi_ (come _short_ o _long_), analogamente non ci sono numeri razionali con diversa precisione (come _double_) questo perché Python rappresenta _interi di qualsiasi grandezza_ e _float di qualsiasi precisione arbitraria_.
