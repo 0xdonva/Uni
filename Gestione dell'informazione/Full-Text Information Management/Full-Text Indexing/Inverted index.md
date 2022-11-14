@@ -3,7 +3,7 @@ L'[[Index|indice]] invertito è composto da due elementi: il _vocabolario_ e le 
 Il __vocabolario__ è un gruppo di parole tutte diverse tra loro nei testi, per ogni parola esiste una lista delle posizioni in cui appare la parola nei testi.
 Il gruppo che contiene tutte queste liste viene detto __occorrenze__.
 Queste posizioni possono riferirsi a parole o caratteri.
-Le liste di _posizioni di parole_ semplificano le frasi e le query di prossimità, mentre la _posizioni dei caratteri_ facilita l'accesso diretto alla ricerca tramite [[pattern matching]].
+Le liste di _posizioni di parole_ semplificano le frasi e le query di prossimità, mentre la _posizioni dei caratteri_ facilita l'accesso diretto alla ricerca tramite [[Pattern matching]].
 Lo spazio richiesto dal _vocabolario_ è _estremamente piccolo_: in base alla _legge di Heaps_, il vocabolario è cresce fino ad un $O(n^{\beta})$, dove $\beta$ è una costante tra $0$ e $1$ che dipende dal testo.
 Lo spazio richiesto dalle _occorrenze_ è più grande visto che ogni parola che appare nei testi è inserita in una struttura dati, occuperà circa un $O(n)$.
 Questo vuol dire che le _occorrenze_ andranno ad occupare circa il 30/40% della dimensione dei testi.
@@ -22,4 +22,6 @@ Una volta che il testo è finito, il trie viene scritto sul disco insieme alla l
 
 ## Ricerca
 Un algoritmo di ricerca di un inverted index segue tre passi generali:
-1. _Ricerca nel vocabolario_: le parole e i pattern presenti nelle query vengono isolati e cercati nel vocabolario
+1. _Ricerca nel vocabolario_: le parole e i pattern presenti nelle query vengono isolati e cercati nel vocabolario.
+2. _Ottenimento delle occorrenze_: la lista delle occorrenze di tutte le parole trovate viene estratta.
+3. _Manipolazione delle occorrenze_: le occorrenze sono elaborate per risolvere frasi, prossimità o operatori booleani.

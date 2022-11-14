@@ -1,4 +1,4 @@
-Una seconda opzione diversa dalle [[structural querying]] è quello di costruire una struttura dati sopra al testo, chiama __indice__ (o __index__) per velocizzare la ricerca.
+Una seconda opzione diversa dalle [[Structural querying]] è quello di costruire una struttura dati sopra al testo, chiama __indice__ (o __index__) per velocizzare la ricerca.
 È molto utile l'indicizzazione quando si parla di grossi e semi-statici testi, quest'ultime sono collezioni di testi che possono essere aggiornate a intervalli regolari.
 
 ## Tecniche di indicizzazione

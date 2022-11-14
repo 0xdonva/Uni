@@ -11,4 +11,4 @@ Il __document pre-processing__ è una procedura che trasforma un documento in un
 Nel document pre-processing oltre alle normali operazioni si possono usare:
 - [[Parser]]
 - [[Tagger]]
-- [[Word sense Disambiguation]]
+- [[Word Sense Disambiguation]]

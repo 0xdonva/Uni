@@ -3,7 +3,7 @@ Questa è una tipologia di attacchi che riguardano soprattutto le aziende medio-
 Gli APT sono tipicamente organizzazioni para-statali, ma possono anche essere organizzazioni criminali che mettono a disposizione le proprie competenze.
 
 ## Passi dell'attacco
-1. __Ricognizione__: gli attaccanti cercano e identificano gli obbiettivi che verranno attaccati nell'attacco, usando dati pubblici o tramite altri metodi, e ricercano indirizzi mail o modi per contattare direttamente gli individui.
+1. __Ricognizione__: gli attaccanti cercano e identificano gli obbiettivi che verranno attaccati nell'attacco, usando dati pubblici o tramite altri metodi, ricercano indirizzi mail o modi per contattare direttamente gli individui e ricercano [[vulner]]
 2. __Intrusione nella rete__: solitamente avviene quando un individuo apre una mail di phishing e scarica un PDF malevolo, o più in generale un [[Malware]], che infetta la macchina dell'impiegato e permette all'attaccante di essere già con un piede dentro la porta.
 3. __Inserire una backdoor__: l'attaccante cerca di ottenere le credenziali di amministratore del dominio e le estrae dalla rete. Solitamente queste credenziali sono criptate ma basta decriptarle con degli strumenti appositi.
 4. __Ottiene le credenziali__: l'attaccante ottiene la maggior parete dell'accesso utilizzando credenziali utente valide, solitamente ottenute le chiavi di accesso dell'amministratore di dominio può accedere a circa il 40% dell'intera rete.

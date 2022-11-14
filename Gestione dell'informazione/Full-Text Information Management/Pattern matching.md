@@ -1,5 +1,5 @@
 Un __pattern__ è un pezzo di testo che ha certe proprietà sintattiche, es. `comput*`.
-Il __pattern matching__ permette di effettuare query che approssimativamente abbinano del testo invece che dei [[token]] di parole.
+Il __pattern matching__ permette di effettuare query che approssimativamente abbinano del testo invece che dei [[Token]] di parole.
 
 ## Matched pattern
 Queste query possono essere utilizzate nel meccanismo di composizione come query di base o per formare frasi e query di prossimità.
