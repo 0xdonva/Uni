@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi dinamici/Python/Classe.md",
+                "file": "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi dinamici/Python/Classe.md",
+                "file": "Gestione dell'informazione/Full-Text Indexing/Inverted index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "a60b2dd214824cc8",
   "lastOpenFiles": [
-    "Linguaggi dinamici/Python/Funzioni/Type.md",
+    "Gestione dell'informazione/Full-Text Indexing/Index.md",
     "Linguaggi dinamici/Python/Classe.md",
+    "Linguaggi dinamici/Python/Funzioni/Type.md",
     "Cyber-Phisical Security/Sicurezza nella rete locale/Segmentazione e segregazione.md",
     "Cyber-Phisical Security/Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
     "Linguaggi dinamici/Python/Funzione.md",
     "Linguaggi dinamici/Python/Decoratore.md",
     "Linguaggi dinamici/Python/Modulo.md",
     "Linguaggi dinamici/Python/Namespace.md",
-    "Linguaggi dinamici/Python/Lexical scoping.md",
-    "Linguaggi dinamici/Python/Dati Semplici/String.md"
+    "Linguaggi dinamici/Python/Lexical scoping.md"
   ]
 }
