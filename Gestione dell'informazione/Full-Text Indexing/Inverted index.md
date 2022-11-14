@@ -13,4 +13,13 @@ Un inverted index di un testo di $n$ caratteri può essere costruito in un tempo
 Tutto il vocabolario fino ad ora conosciuto è contenuto in una struttura dati _trie_, memorizzando per ogni parola un elenco delle sue occorrenze.
 Ogni parola viene letta e cercata all'interno del _trie_, se non viene trovata una nuova posizione viene aggiunta in coda alla lista delle occorrenze. Una volta all'interno del trie, la nuova posizione è aggiunta alla fine della lista delle occorrenze.
 Una volta che il testo è finito, il trie viene scritto sul disco insieme alla lista delle occorrenze.
-È buona norma dividere l'indice in due file: nel prima la lista d
+È buona norma dividere l'indice in due file: nel primo la lista delle occorrenze è scritta in maniera contigua, nel secondo il vocabolario è salvato in ordine lessicografico e per ogni parola un puntatore alla sua lista nel primo file.
+
+### Complessità
+- $O(1)$ operazioni per carattere del testo.
+- $O(1)$ per l'inserimento della posizione nella lista delle occorrenze.
+- $O(n)$ per gli altri processi.
+
+## Ricerca
+Un algoritmo di ricerca di un inverted index segue tre passi generali:
+1. _Ricerca nel vocabolario_: le parole e i pattern presenti nelle query vengono isolati e cercati nel vocabolario
