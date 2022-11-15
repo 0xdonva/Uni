@@ -20,3 +20,12 @@ In tal caso, la classe eredità comunque da una classe di default, che è la _ra
 Tale classe, che naturalmente include metodi che garantiscono le proprietà fondamentali delle classi, si chiama `object`.
 
 ## Istanziazione di una classe
+In Python il processo di istanziazione di una classe può essere _minuziosamente controllato_, è però anche possibile specificare solo l'informazione minima necessaria, sfruttando il _comportamento di default dell'interprete_.
+La creazione di un oggetto in Python procede in due fasi, separate e _accessibili al programmatore_: la creazione vera e propria dell'oggetto e la _creazione e inizializzazione degli attributi_.
+Il metodo che crea e inizializza gli attributi si chiama `__init__` e, in quanto [[metodo magico]], non necessita di essere chiamato esplicitamente.
+```jupyter
+class C:
+	def __init__(self,x,y):
+		self.x = x
+		self.y = y
+```
