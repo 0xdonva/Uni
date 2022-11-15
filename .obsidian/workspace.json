@@ -47,12 +47,8 @@
             "id": "429a1a0e5ca5860d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -114,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +138,7 @@
   },
   "active": "429a1a0e5ca5860d",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
     "Cyber-Phisical Security/Tipi di malware/Malware.md",
     "Linguaggi dinamici/Python/Funzioni/Id.md",
     "Linguaggi dinamici/Python/Funzioni/Range.md",
@@ -150,7 +147,6 @@
     "Gestione dell'informazione/Full-Text Information Management/Query language.md",
     "Gestione dell'informazione/Full-Text Information Management/Structural querying.md",
     "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Inverted index.md",
-    "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Index.md",
-    "Linguaggi dinamici/Python/Classe.md"
+    "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Index.md"
   ]
 }
