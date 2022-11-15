@@ -29,3 +29,4 @@ class C:
 		self.x = x
 		self.y = y
 ```
+Il metodo `__init__` ha tre parametri, dei quali il primo è una convezione universale chiamarlo `self`, che viene legato nella chiamata all'oggetto appena creato, il resto sono parametri che servono al programmatore.
