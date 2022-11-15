@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0739026115db4e3e",
+        "id": "0786619f571e4635",
         "type": "tabs",
         "children": [
           {
-            "id": "a60b2dd214824cc8",
+            "id": "64548ca9aa8bd0f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Inverted index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e7c360eca90f343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestione dell'informazione/Full-Text Information Management/Structural querying.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "945bfae7c2ce0dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gestione dell'informazione/Full-Text Information Management/Query language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "429a1a0e5ca5860d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
+                "file": "Linguaggi dinamici/Python/Classe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -114,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
+                "file": "Linguaggi dinamici/Python/Classe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "429a1a0e5ca5860d",
+  "active": "64548ca9aa8bd0f9",
   "lastOpenFiles": [
+    "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
     "Cyber-Phisical Security/Tipi di malware/Malware.md",
     "Linguaggi dinamici/Python/Funzioni/Id.md",
     "Linguaggi dinamici/Python/Funzioni/Range.md",
@@ -150,7 +115,6 @@
     "Gestione dell'informazione/Full-Text Information Management/Query language.md",
     "Gestione dell'informazione/Full-Text Information Management/Structural querying.md",
     "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Inverted index.md",
-    "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Index.md",
-    "Linguaggi dinamici/Python/Classe.md"
+    "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Index.md"
   ]
 }
