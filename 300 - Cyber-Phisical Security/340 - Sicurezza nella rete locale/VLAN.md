@@ -12,4 +12,4 @@ Gli host possono essere aggregati in VLAN tramite soluzioni software basate su:
 - Indirizzo MAC.
 - Indirizzo IP.
 - Tipo di protocollo.
-È possibile realizzare VLAN mediante configurazione statica o  dinamica.
+È possibile realizzare VLAN mediante configurazione statica o dinamica.
