@@ -1,0 +1,3 @@
+Il __lexical scope__ in Python si può tradurre nella regola _LEGB (Local, Enclosing, Global, Built-in)_:
+- Se il riferimento non si trova all'interno di una [[Funzione]], il _lookup_ avviene prima nel [[Namespace]] globale e poi in quello built-in.
+- Altrimenti, se il riferimento si trova nel _body di una [[Funzione]]_ `f`, il _lookup_ procede prima nel [[Namespace]] locale di `f`, poi negli eventuali [[Namespace]] locali delle funzioni che includono `f`, poi ancora nel [[Namespace]] globale e infine in quello built-in.

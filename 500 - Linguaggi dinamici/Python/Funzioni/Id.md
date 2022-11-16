@@ -1,0 +1,3 @@
+La [[Funzione]] `id()` permette di "testare" l'identità di un oggetto, che restituisce un identificatore univoco dell'oggetto stesso.
+Questo permette anche di capire se un [[Dato|oggetto]] è di tipo [[Dato#Immutable|immutable]] o [[Dato#Mutable|mutable]].
+Per ovvie ragioni ci si potrebbe aspettare che Python abbia una singola copia di un oggetto immutable ma per aumentare le prestazioni alcuni valori vengono già salvati in memoria: è il caso dei numeri interi da 0 a 256, True e False, frasi ricorrenti come "Hello" o "Hello_world", ecc.

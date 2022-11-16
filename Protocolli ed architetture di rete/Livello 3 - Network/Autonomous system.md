@@ -1,1 +1,0 @@
-[[Internet]] non è un insieme di [[router]] "sparsi" nel mondo che sono interconnessi tra loro in modo casuale, questi sono invece aggregati in _regioni_, chiamate __autonomous system__ (o _AS_): un insieme di [[Rete LAN|reti]], di [[Indirizzo IP]] e di [[router]] sotto il controllo di una organizzazione (o consorzio).

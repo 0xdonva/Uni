@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "93c13be7cfd21dda",
+        "id": "0786619f571e4635",
         "type": "tabs",
         "children": [
           {
-            "id": "c99b4ec5186398e5",
+            "id": "64548ca9aa8bd0f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +105,15 @@
   },
   "active": "2386e993ddc732de",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Gestione dell'informazione/Full-Text Information Management/Query language.md",
-    "Gestione dell'informazione/Full-Text Information Management/Structural querying.md",
-    "Cyber-Phisical Security/Tipi di attacchi/Advanced Persistent Threat.md",
-    "Cyber-Phisical Security/Tipi di malware/Malware.md",
-    "Linguaggi dinamici/Python/Funzioni/Id.md",
-    "Linguaggi dinamici/Python/Funzioni/Range.md",
-    "Linguaggi dinamici/Python/Funzioni/Type.md",
-    "Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
-    "Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Inverted index.md"
+    "500 - Linguaggi dinamici/Python/Classe.md",
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/Advanced Persistent Threat.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Malware.md",
+    "500 - Linguaggi dinamici/Python/Funzioni/Id.md",
+    "500 - Linguaggi dinamici/Python/Funzioni/Range.md",
+    "500 - Linguaggi dinamici/Python/Funzioni/Type.md",
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
+    "400 - Gestione dell'informazione/Full-Text Information Management/Query language.md",
+    "400 - Gestione dell'informazione/Full-Text Information Management/Structural querying.md",
+    "400 - Gestione dell'informazione/Full-Text Information Management/Full-Text Indexing/Inverted index.md"
   ]
 }
