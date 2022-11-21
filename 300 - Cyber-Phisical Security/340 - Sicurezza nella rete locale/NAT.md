@@ -1,0 +1,1 @@
+Il __NAT router__ si interpone tra la rete locale di una organizzazione e Internet con i seguenti compiti:
