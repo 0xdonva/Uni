@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +154,11 @@
   },
   "active": "d0ffa0062017fe48",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/PAT.md",
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Segmentazione e segregazione.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/PAT.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/VLAN.md",
     "500 - Linguaggi dinamici/Python/Classe.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/Advanced Persistent Threat.md",

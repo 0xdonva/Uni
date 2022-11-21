@@ -1,0 +1,2 @@
+In una versione del NATting è prevista anche la possibilità di "tradurre" non solo l'indirizzo IP sorgente ma anche la porta sorgente (__PAT__).
+Molte operazioni di [[NAT]] sono in realtà operazioni di PAT per cui vi è confusione tra i termini.
