@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +179,10 @@
   },
   "active": "e66f959d22a6609f",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Segmentazione e segregazione.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/PAT.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
