@@ -5,7 +5,6 @@ Esistono diverse soluzioni tecnologiche per questa operazione:
 - Reti LAN virtuali ([[VLAN]]).
 - Network Address Translation ([[NAT]]) e Port Address Translation ([[PAT]]).
 - [[Firewall]]
-	- Packet filter.
-	- Stateful firewall.
-	- Proxy firewall o Application gateway o Web Application Firewall (WAF).
+	- [[Firewall Packet filter]].
+	- Proxy firewall o [[firewall Application gateway]] o Web Application Firewall (WAF).
 - De-Militarized Zone (DMZ)

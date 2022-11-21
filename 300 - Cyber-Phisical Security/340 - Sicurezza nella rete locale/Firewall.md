@@ -6,4 +6,18 @@ Il firewall deve essere, a sua volta, un sistema sicuro e tenuto sempre sotto co
 ### Negazione implicita
 Solo il traffico esplicitamente autorizzato può attraversare il firewall.
 Tutto il traffico non esplicitamente autorizzato viene bloccato:
-- È il meto
+- È il metodo più sicuro di firewalling.
+- Dal punto di vista degli utenti è il più restrittivo.
+- È più difficile da gestire.
+
+### Accesso implicito
+Solo il traffico esplicitamente vietato viene bloccato dal firewall.
+Tutto il traffico non vietato esplicitamente può attraversare il firewall:
+- Garantisce la massima usabilità della rete.
+- È più facile da gestire.
+- Espone la rete a rischi di sicurezza.
+
+## Tipologie di firewall
+Si possono identificare due tipologie principali di firewall sulla base delle funzionalità offerte:
+- [[Firewall Packet Filter]]
+- [[Firewall Application Gateway]]
