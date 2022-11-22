@@ -1,0 +1,1 @@
+Il suo caso d'uso più comune coin
