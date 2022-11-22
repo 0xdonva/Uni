@@ -1,0 +1,3 @@
+__`__getattr__`__ è un [[metodo magico]] che viene invocato da [[__getattribute__]] quando si verifica una `miss`.
+[[__getattribute__]], `__getattr__` e [[__setattr__]] sono metodi che sono definiti nella classe `object` ed ereditati, a _meno di overriding_, da tutte le classi.
+Questa funzione serve tipicamente per definire un eventuale comportamento standard nel caso venga tentato l'accesso ad un _attributo non presente_, prima di sollevare l'errore, l'interprete prova  a chiamare `__getattr__`.

@@ -1,0 +1,2 @@
+__`__setattr__`__ è un [[metodo magico]] che viene invocato per gli _accessi in scrittura_ di una [[classe]].
+[[__getattribute__]], [[__getattr__]] e `__setattr__` sono metodi che sono definiti nella classe `object` ed ereditati, a _meno di overriding_, da tutte le classi.
