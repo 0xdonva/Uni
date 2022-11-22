@@ -15,7 +15,7 @@ La seguente semplice definizione non è la più generale possibile ma è ampiame
 class C{(B1,B2,...,BK)}:
 	<elenco di attributi>
 ```
-Python ammette [[ereditarietà]] multipla, è anche possibile non specificare _nessuna classe base_ nella definizione.
+Python ammette [[Ereditarietà]] multipla, è anche possibile non specificare _nessuna classe base_ nella definizione.
 In tal caso, la classe eredità comunque da una classe di default, che è la _radice della catena ereditaria_.
 Tale classe, che naturalmente include metodi che garantiscono le proprietà fondamentali delle classi, si chiama `object`.
 
