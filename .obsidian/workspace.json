@@ -11,8 +11,12 @@
             "id": "e4e02aa5dd398f12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "500 - Linguaggi dinamici/Python/Metodi magici/__str__.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "500 - Linguaggi dinamici/Python/Metodi magici/__str__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,14 +105,14 @@
   },
   "active": "e4e02aa5dd398f12",
   "lastOpenFiles": [
+    "500 - Linguaggi dinamici/Python/Metodi magici/__repr__.md",
+    "500 - Linguaggi dinamici/Python/Metodi magici/__str__.md",
     "500 - Linguaggi dinamici/Python/Metodi magici/__setattr__.md",
     "500 - Linguaggi dinamici/Python/Metodi magici/__getattr__.md",
     "500 - Linguaggi dinamici/Python/Metodi magici/__getattribute__.md",
     "500 - Linguaggi dinamici/Python/Funzioni/Super.md",
     "500 - Linguaggi dinamici/Python/Ereditarietà.md",
     "500 - Linguaggi dinamici/Python/Metodi magici/__init__.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__repr__.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__str__.md",
     "500 - Linguaggi dinamici/Python/Metodi magici/__new__.md",
     "500 - Linguaggi dinamici/Python/Metodi bound e unbound.md"
   ]
