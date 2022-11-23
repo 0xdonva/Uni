@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +119,10 @@
   },
   "active": "ec89118013f29c5b",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Segmentazione e segregazione.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
     "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo BGP.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo OSPF.md",

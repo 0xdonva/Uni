@@ -25,3 +25,11 @@ La dinamicità consiste nella capacità di:
 - Mantenere tabelle di stato con le informazioni relative alle connessioni attive.
 - Adattare dinamicamente le regole utilizzate per il filtraggio in base alle informazioni di stato.
 ##### Vantaggi
+- Riconosce pacchetti appartenenti ad una connessione già aperta.
+- Le risposte provenienti dall'esterno a connessioni legittime vengono autorizzate da regole temporanee, istanziate dinamicamente e automaticamente.
+- Le regole temporanee sono attive solo per il tempo strettamente necessario.
+- Non è necessario aprire buchi permanenti.
+##### Svantaggi
+- Non è in grado di riconoscere pacchetti correlati ad una connessione già aperta.
+- Richiede maggiori quantità di memoria per mantenere informazioni relative alle connessioni.
+- Richiede maggiore capacità computazionale.
