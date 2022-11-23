@@ -11,8 +11,12 @@
             "id": "e4e02aa5dd398f12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Autonomous system.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Autonomous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
