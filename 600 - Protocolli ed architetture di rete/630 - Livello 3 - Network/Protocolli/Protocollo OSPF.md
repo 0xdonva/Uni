@@ -12,4 +12,5 @@ Il routing si basa sull'algoritmo centralizzato _link state_:
 Tutto questo fornisce caratteristiche al OSPF quali:
 - _Sicurezza_: possibilità si autenticare i messaggi OSPF con algoritmi di crittografia.
 - _Percorsi multipli con costo uguale_: possibilità di usare più percorsi per instradare il traffico.
-- _Supporto integrato per instradamento unicast e multicast_:
+- _Supporto integrato per instradamento unicast e multicast_: multicast OSPF usa lo stesso database di collegamenti usato da OSPF.
+- _Struttura gerarchica degli AS_: possibilità di strutturare grandi domini di instradamento in gerarchie di AS.
