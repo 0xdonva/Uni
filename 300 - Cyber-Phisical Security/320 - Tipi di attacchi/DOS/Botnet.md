@@ -7,4 +7,4 @@ Rete di computer _robotizzati_ (_zombie_) che costituisce un vero e proprio eser
 4. La botnet è gestita da un unico centro di comando e controllo logico, che viene realizzato mediante diversi computer distribuiti in comunicazione tra loro.
 
 ## Scopo
-In alcuni casi la botnet può essere creata per il semplice scopo di essere venduta/noleggiata ad altri cybercriminali per svariate operazioni: spam, [[DOS]], scansione e diffusione di [[Malware]], acquisizione di informazioni.
+In alcuni casi la botnet può essere creata per il semplice scopo di essere venduta/noleggiata ad altri cybercriminali per svariate operazioni: spam, [[DOS]], scansione e diffusione di [[malware]], acquisizione di informazioni.

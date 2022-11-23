@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Smurf.md",
+                "file": "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Smurf.md",
+                "file": "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "b1eebb856a58bf27",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Botnet.md",
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/Flooding.md",
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DOS.md",
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Smurf.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Land.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/WinNuke.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Teardrop.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Ping of Death.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/PAT.md"
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Ping of Death.md"
   ]
 }
