@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "346550d905936689",
+        "id": "5e5d9d471002bd2f",
         "type": "tabs",
         "children": [
           {
-            "id": "ca2117312c0d2340",
+            "id": "b1eebb856a58bf27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Mediazione incompleta.md",
+                "file": "300 - Cyber-Phisical Security/330 - Tipi di malware/Ransomware.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Mediazione incompleta.md",
+                "file": "300 - Cyber-Phisical Security/330 - Tipi di malware/Ransomware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca2117312c0d2340",
+  "active": "b1eebb856a58bf27",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Software e bug.md",
-    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Vulnerabilità software.md",
-    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/TOCTTOU.md",
-    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Mediazione incompleta.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Spyware.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Malware.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Ransomware.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Trojan.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Virus.md",
+    "300 - Cyber-Phisical Security/330 - Tipi di malware/Worm.md",
     "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Code Injection.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo OSPF.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Segmentazione e segregazione.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md"
+    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Mediazione incompleta.md",
+    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Software e bug.md",
+    "300 - Cyber-Phisical Security/310 - Vulnerabilità Applicazioni/Vulnerabilità software.md"
   ]
 }
