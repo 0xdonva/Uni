@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo BGP.md",
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo BGP.md",
+                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +119,15 @@
   },
   "active": "ec89118013f29c5b",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Segmentazione e segregazione.md",
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
+    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo BGP.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo OSPF.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo di routing.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Roba da scomporre/Protocolli di routing su scala geografica.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo RIP.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Autonomous system.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__repr__.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__str__.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__setattr__.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__getattr__.md",
-    "500 - Linguaggi dinamici/Python/Metodi magici/__getattribute__.md"
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo RIP.md"
   ]
 }

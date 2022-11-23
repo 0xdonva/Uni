@@ -8,9 +8,20 @@ Quando un pacchetto arriva al packet filter, il firewall estrae alcune informazi
 Prima tecnica ad essere implementata, considera i singoli pacchetti come entità individuali, non correlati tra loro.
 ##### Vantaggi
 Tutti i pacchetti vengono analizzati come unità di informazione non correlata tra loro:
-- basso costo computazionale ed economico.
-- Non richiede il mantenimento di informazioni di stato.
-- Semplice da implementare e gestire.
-- Ottima scalabilità.
+- _basso costo computazionale_ ed _economico_.
+- _Non richiede_ il mantenimento di informazioni di stato.
+- _Semplice_ da implementare e gestire.
+- _Ottima scalabilità_.
 ##### Svantaggi
-Tutti i pacchetti vengono analizzati come unità di informazione non correlata tra loro...
+Tutti i pacchetti vengono analizzati come unità di informazione non correlata tra loro:
+- Non è in grado di riconoscere pacchetti _appartenenti_ e _correlati_ ad una _connessione già aperta_.
+- Occorre coprire numerosi buchi nel firewall per garantire una comunicazione bidirezionale valida per tutti i protocolli.
+- Vulnerabile a tecniche elementari di _firewalking_.
+
+### Stateful packet filtering
+Analizza gli header di livello 3 e 4, non analizza header/payload a livello applicazione.
+La dinamicità consiste nella capacità di:
+- Distinguere le connessioni già aperte da quelle nuove.
+- Mantenere tabelle di stato con le informazioni relative alle connessioni attive.
+- Adattare dinamicamente le regole utilizzate per il filtraggio in base alle informazioni di stato.
+##### Vantaggi
