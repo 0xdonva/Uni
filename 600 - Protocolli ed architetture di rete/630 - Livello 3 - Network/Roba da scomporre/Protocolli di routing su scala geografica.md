@@ -18,8 +18,8 @@ Le politiche di routing sono le regole per decidere come instradare il traffico,
 ### Intra-AS
 Principali protocolli di routing intra-AS:
 - _Routing Information Protocol_ ([[Protocollo RIP|RIP]])
-- _Open Shortest Path First_ (OSPF)
+- _Open Shortest Path First_ ([[Protocollo OSPF|OSPF]])
 - _Enhanced Interior Gateway Routing Protocol_ (EIGRP)
 
 ### Inter-AS
-Il principale protocollo in uso è il _Border Gateway Protocol_ (BGP), che ad oggi è uno standard de facto.
+Il principale protocollo in uso è il _Border Gateway Protocol_ ([[Protocollo BGP|BGP]]), che ad oggi è uno standard de facto.

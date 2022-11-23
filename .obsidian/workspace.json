@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Roba da scomporre/Protocolli di routing su scala geografica.md",
+                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo RIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Roba da scomporre/Protocolli di routing su scala geografica.md",
+                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo RIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,8 +131,8 @@
   },
   "active": "72203634dcf005dd",
   "lastOpenFiles": [
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo RIP.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Roba da scomporre/Protocolli di routing su scala geografica.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocolli/Protocollo RIP.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo di routing.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Autonomous system.md",
     "500 - Linguaggi dinamici/Python/Metodi magici/__repr__.md",
