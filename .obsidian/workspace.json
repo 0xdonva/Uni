@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ea76a6245bb37c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a50a61f0f4aaa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -77,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1eebb856a58bf27",
+  "active": "93a50a61f0f4aaa5",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Botnet.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittologia.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Botnet.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/Flooding.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DOS.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Smurf.md",
     "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Land.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/WinNuke.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Teardrop.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Ping of Death.md"
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/WinNuke.md"
   ]
 }
