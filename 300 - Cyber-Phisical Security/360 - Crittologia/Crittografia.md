@@ -14,4 +14,5 @@ Nella pratica, uno schema di cifratura è detto _computazionalmente sicuro_ se r
 ## Tipi di crittografia
 - Crittografia _classica_: fino all'avvento delle macchine cifranti, prima dei computer. Si basa sull'utilizzo di una o entrambe le tecniche di _sostituzione_ e di _trasposizione_.
 - Crittografia _moderna_: si basa sulle tecniche di sostituzione e di trasposizione ed eventualmente su _algoritmi_ matematici. Tutti sono implementati al computer. Sono divisi in:
-	- _Algoritmi simmetrici_ (detti anche a chiave _simmetr_)
+	- _Algoritmi simmetrici_ (detti anche a chiave _simmetrica_ o _segreta_).
+	- _Algoritmi asimmetrici_ (detti anche a chiave _asimmetrica_ o _pubblica_).
