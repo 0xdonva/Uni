@@ -1,4 +1,4 @@
-Un __indirizzo [[IP]]__ ha dimensione _32 bit_, ed è solitamente rappresentato tramite i valori di ciascuno dei _4 byte_ che lo compongono in notazione decimale, es. `155.185.121.7`.
+Un __indirizzo [[Protocollo IP|IP]]__ ha dimensione _32 bit_, ed è solitamente rappresentato tramite i valori di ciascuno dei _4 byte_ che lo compongono in notazione decimale, es. `155.185.121.7`.
 L'indirizzo IP viene usato come identificatore univoco in un servizio di comunicazione universale.
 
 ## Componenti dell'indirizzo IP

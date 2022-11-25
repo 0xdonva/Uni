@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c81390360f3c0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "107fcb0b61dcc93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Multiplazione e demultiplazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -77,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Steganografia.md",
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Multiplazione e demultiplazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47e26215c563f614",
+  "active": "107fcb0b61dcc93f",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittoanalisi.md",
+    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo IP.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP Datagram.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Indirizzo IP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Steganografia.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittoanalisi.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittologia.md",
     "300 - Cyber-Phisical Security/360 - Crittologia.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Botnet.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/Flooding.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/Flooding/TCP SYN Flood.md",
-    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DOS.md"
+    "300 - Cyber-Phisical Security/320 - Tipi di attacchi/DOS/DDOS.md"
   ]
 }
