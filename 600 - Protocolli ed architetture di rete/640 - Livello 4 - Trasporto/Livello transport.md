@@ -6,3 +6,4 @@ I protocolli _transport_ standard dello stack TCP/IP:
 - [[Protocollo UDP|UDP]].
 - [[Protocollo TCP|TCP]].
 Potrebbero esistere altri protocolli trasporto in contesti particolari e/o proprietari.
+L'univocità di ciascun flusso a livello trasporto in Internet è dato dalla quintupla $$[(\text{indirizzo IP}_{x},\text{porta}_{w}),(\text{indirizzo IP}_{y},\text{porta}_{z}),<\text{protocollo trasporto}>]$$

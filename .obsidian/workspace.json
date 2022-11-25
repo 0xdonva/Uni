@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Porta.md",
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9472b618d9e11953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo UDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Porta.md",
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1477b41e4f0fff9c",
+  "active": "9472b618d9e11953",
   "lastOpenFiles": [
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Multiplazione e demultiplazione.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
+    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Porta.md",
+    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Multiplazione e demultiplazione.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo IP.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP Datagram.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Indirizzo IP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Steganografia.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittoanalisi.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittologia.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittologia.md"
   ]
 }
