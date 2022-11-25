@@ -5,3 +5,7 @@ Abbreviazione di __User Data Protocol__, definito nel RFC 768, è un protocollo 
 4. _Servizio senza connessione_: non vi è handshaking tra mittente e destinatario, ogni pacchetto UDP è trattato in modo indipendente dagli altri.
 
 ## Pacchetto UDP
+![[Screenshot 2022-11-25 at 13-03-15 Microsoft PowerPoint - 04-LivelloTrasporto_parte1.pptx - 04-LivelloTrasporto_parte1_bw.pdf.png]]
+#### Campi
+- Numero di porta del _mittente_ (16 bit).
+- Numero di porta del _destinatario_ (16 bit).
