@@ -21,10 +21,12 @@ Il checksum è calcolato sulla base di tre informazioni:
 1. _Pseudo-header UDP_
 2. _Header UDP_
 3. _Payload UDP_
+Lo scopo è quello di individuare errori nel pacchetto trasmesso.
+Viene calcolato usando il complemento a 1 della somma di tutti i campi dello pseudo-header e del pacchetto UDP.
 
 #### Pseudo-header UDP
 Lo _pseudo-header_ è un insieme di informazioni ricavate dall'header del livello 3 e da informazioni "derivate" non presenti esplicitamente nel pacchetto.
 ![[Pasted image 20221127120346.png]]
 - _Zero padding_: dimensione dello pseudo-header.
 - _Protocollo_: campo protocollo del [[IP datagram]].
-Viene anteposto al pacchetto UDP, non vien 
+Viene anteposto al pacchetto UDP, non viene trasmesso dal mittente.
