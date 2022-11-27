@@ -1,4 +1,4 @@
-Il prtocollo CSMA/CD (_Carrier Sense Multiple Access with Collision Detection_) è un protocollo ad accesso casuale, completamente decentralizzato.
+Il protocollo CSMA/CD (_Carrier Sense Multiple Access with Collision Detection_) è un protocollo ad accesso casuale, completamente decentralizzato.
 Sostanzialmente:
 - Quando un host deve trasmettere: ascolta il canale.
 - Quando un host trasmette: invia i dati alla massima velocità consentita dal canale.
@@ -9,7 +9,7 @@ _Carrier Sense_ tradotto letteralmente vuol dire _rilevazione del portante_ e ci
 
 ### Inter Frame Gap
 Due frame consecutivi vengono trasmessi distanziati da un tempo che corrisponde alla lunghezza del pacchetto dati più piccolo, questo intervallo è detto _Inter Frame Gap_ o _IFG_.
-L'IFG serve per garantire agli host in ascolto sulla [[Rete LAN]] di poter distinguere la fine della trasmissione di un frame dall'inizio della trasmissione successiva.
+L'IFG serve per garantire agli host in ascolto sulla [[rete LAN]] di poter distinguere la fine della trasmissione di un frame dall'inizio della trasmissione successiva.
 Prima di trasmettere un host deve ascoltare per un tempo pari all'IFG il canale e deve assicurarsi che sia libero
 
 ## Multiple Access

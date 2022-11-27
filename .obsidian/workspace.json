@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo RARP.md",
-                "mode": "source",
+                "file": "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo RARP.md",
+                "file": "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "78a9af6e4a96af3a",
   "lastOpenFiles": [
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Modem.md",
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Apparati di rete.md",
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md",
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Switch.md",
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Hub.md",
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo CSMA-CD.md",
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo ARP.md",
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo RARP.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Frame Ethernet.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Indirizzo MAC.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Ethernet.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/ISP.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/NIC.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Rete LAN.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo UDP.md"
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Binary Exponential Back-off.md",
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Frame Ethernet.md"
   ]
 }
