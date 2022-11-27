@@ -11,7 +11,7 @@ I primi sette byte hanno valore `10101010` e servono ad attivare gli adattatori 
 L'ultimo byte ha valore `10101011`, la coppia `11` avvisano l'adattatore del ricevente che la fase di sincronizzazione è terminata e sta arrivando il contenuto vero e proprio.
 
 ### Indirizzo destinazione e sorgente
-Contengono l'[[Indirizzo MAC]] di sorgente e destinazione, quando un [[NIC]] riceve un frame [[Ethernet]] controlla se il campo destinazione coincide con il suo MAC
+Contengono l'[[indirizzo MAC]] di sorgente e destinazione, quando un [[NIC]] riceve un frame [[Ethernet]] controlla se il campo destinazione coincide con il suo MAC
 
 ### Tipo
 Permette a [[Ethernet]] di _multiplexare_ i protocolli del livello di rete, gli host potrebbero supportare protocolli dello strato di rete diversi da IP.
