@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9472b618d9e11953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78a9af6e4a96af3a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,6 +107,7 @@
   "active": "78a9af6e4a96af3a",
   "lastOpenFiles": [
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo UDP.md",
+    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Porta.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Multiplazione e demultiplazione.md",
@@ -127,7 +115,6 @@
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP Datagram.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Indirizzo IP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Steganografia.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittoanalisi.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittoanalisi.md"
   ]
 }
