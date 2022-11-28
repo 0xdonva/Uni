@@ -7,4 +7,4 @@ Un _algoritmo di classificazione_ opera secondo premesse riguardanti la nozione 
 Il modello IR adottato determina le previsioni di ciò che non lo è.
 
 ## Tipi di modello
-I tre modelli classici nell'Information Retrieval sono chiamati: [[Boolean model|Booleano]], vettore e probabilistico
+I tre modelli classici nell'Information Retrieval sono chiamati: [[Boolean model|Booleano]], [[Vector model|vettoriale]] e probabilistico

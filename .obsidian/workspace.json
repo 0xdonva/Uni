@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5286ce66e717d750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aa25bf23da63650",
+  "active": "5286ce66e717d750",
   "lastOpenFiles": [
     "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Insieme.md",
     "500 - Linguaggi dinamici/Python/Generatore.md",
     "500 - Linguaggi dinamici/Python/Coroutine.md",
     "500 - Linguaggi dinamici/Python/Iteratore.md",
-    "500 - Linguaggi dinamici/Python/Strutture di Dati/Dizionario.md",
-    "500 - Linguaggi dinamici/Python/Strutture di Dati/Lista.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md"
+    "500 - Linguaggi dinamici/Python/Strutture di Dati/Dizionario.md"
   ]
 }
