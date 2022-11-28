@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fd36dce634e803a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 - Linguaggi dinamici/Python/Generatore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 - Linguaggi dinamici/Python/Iteratore.md",
+                "file": "500 - Linguaggi dinamici/Python/Generatore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7dfc9cf95d849784",
+  "active": "6fd36dce634e803a",
   "lastOpenFiles": [
+    "500 - Linguaggi dinamici/Python/Iteratore.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Insieme.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Dizionario.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Lista.md",
@@ -114,7 +128,6 @@
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Apparati di rete.md",
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Switch.md",
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Hub.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo CSMA-CD.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo ARP.md"
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo CSMA-CD.md"
   ]
 }
