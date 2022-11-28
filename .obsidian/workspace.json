@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "dd61d36e9807d462",
+        "id": "5b99aeb4699a7f06",
         "type": "tabs",
         "children": [
           {
-            "id": "7dfc9cf95d849784",
+            "id": "a3213eaec861ce87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 - Linguaggi dinamici/Python/Iteratore.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6fd36dce634e803a",
+            "id": "ef7bdf9e774dacfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 - Linguaggi dinamici/Python/Generatore.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 - Linguaggi dinamici/Python/Generatore.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fd36dce634e803a",
+  "active": "ef7bdf9e774dacfa",
   "lastOpenFiles": [
-    "500 - Linguaggi dinamici/Python/Iteratore.md",
+    "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Insieme.md",
+    "500 - Linguaggi dinamici/Python/Generatore.md",
+    "500 - Linguaggi dinamici/Python/Coroutine.md",
+    "500 - Linguaggi dinamici/Python/Iteratore.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Dizionario.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Lista.md",
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md",
     "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Modem.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Apparati di rete.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Switch.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Hub.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Protocollo CSMA-CD.md"
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Apparati di rete.md"
   ]
 }

@@ -7,6 +7,17 @@ Un generatore viene poi invocato usandolo come parametro della funzione built-in
 La **generator function** è una funzione a tutti gli effetti, che accetta parametri in ingresso e restituisce un _generator object_, o semplicemente generatore.
 Il modo per riconoscere una **generator function** è l'uso della funzione [[yield]] al posto della [[return]].
 
+## Definizione implicita
+Per definire implicitamente un __generatore__ si scrive `(<espressione> for <var> in <iterabile> {if <condizione>})`, esempio:
+```jupyter
+G = (x for x in range(1,5))
+next(G)
+next(G)
+next(G)
+next(G)
+next(G)
+```
+
 ## Esempio
 ```jupyter
 def fibonacci(n):
@@ -20,5 +31,10 @@ def fibonacci(n):
 
 fibo = fibonacci(6)
 
-print(next)
+print(next(fibo))
+print(next(fibo))
+print(next(fibo))
+print(next(fibo))
+print(next(fibo))
+print(next(fibo))
 ```
