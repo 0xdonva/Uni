@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5b99aeb4699a7f06",
+        "id": "4944089e4ba09616",
         "type": "tabs",
         "children": [
           {
-            "id": "a3213eaec861ce87",
+            "id": "b159acceccd6ef37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef7bdf9e774dacfa",
+            "id": "3aa25bf23da63650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef7bdf9e774dacfa",
+  "active": "3aa25bf23da63650",
   "lastOpenFiles": [
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
+    "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Insieme.md",
     "500 - Linguaggi dinamici/Python/Generatore.md",
@@ -126,8 +128,6 @@
     "500 - Linguaggi dinamici/Python/Iteratore.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Dizionario.md",
     "500 - Linguaggi dinamici/Python/Strutture di Dati/Lista.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Modem.md",
-    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Apparati di rete.md"
+    "600 - Protocolli ed architetture di rete/610 - Livello 1 e 2 - H2N/Architetture reti Ethernet/Bridge.md"
   ]
 }
