@@ -11,4 +11,5 @@ Questo permette di *limitare* grandemente le perdite di performance, questo per�
 	- L'_aritmetica dei puntatori_.
 	- *Segmentation fault*: non vengono effettuati controlli sul fatto che la memoria referenziata a seguito di un'operazione sul puntatore sia effettivamente allocata e disponibile al programma.
 	- *Dandling reference*: viene deferenziato un puntatore ad un'area di memoria che è già disallocata.
-	- *Memory leak*: 
+	- *Memory leak*: non viene liberata un'area di memoria che non è accessibile al programma.
+- *Aumento della complessità*.
