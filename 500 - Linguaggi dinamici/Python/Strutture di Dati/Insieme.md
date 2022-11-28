@@ -12,3 +12,9 @@ set.intersection(S,T)
 set.union(S,T)
 set.difference(S,T)
 ```
+
+## Set-comprehension
+La costruzione dinamica di un insieme può essere fatta seguendo questa espressione: `{<espressione> for <var> in <iterabile> {if <condition>}}`, esempio:
+```jupyter
+L = {x**2 for x in range(-9,10)}; L
+```

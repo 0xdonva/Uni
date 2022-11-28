@@ -26,4 +26,7 @@ print(L)
 ```
 
 ## List-comprehension
-La costruzione dinamica di una lista può essere fatta seguendo questa espres
+La costruzione dinamica di una lista può essere fatta seguendo questa espressione: `[<espressione> for <var> in <iterabile> {if <condition>}]`, esempio:
+```jupyter
+L = [x**2 for x in range(10) if x&1]; L
+```
