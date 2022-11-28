@@ -24,3 +24,6 @@ Permette di estendere la lista con un'altra lista:
 list.extend(L,[5,6])
 print(L)
 ```
+
+## List-comprehension
+La costruzione dinamica di una lista può essere fatta seguendo questa espres
