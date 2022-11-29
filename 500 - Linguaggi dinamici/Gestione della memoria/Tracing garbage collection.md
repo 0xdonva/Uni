@@ -1,0 +1,1 @@
+Un garbage collector di tipo **tracing** procede all'individuazione degli oggetti ancora referenziabili attraverso una catena di riferimenti che parte dai cosiddetti *oggetti radice* (*variabili globali* e sullo stack, *variabili locali*, inclusi naturalmente i *parametri formali*).
