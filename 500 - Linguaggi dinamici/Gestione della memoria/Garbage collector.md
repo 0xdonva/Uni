@@ -12,3 +12,7 @@ L'overhead in termini di tempo viene tipicamente valutato in termini di due quan
 - *Throughput*: la quantità di oggetti rilasciati ad ogni ciclo di garbage collection.
 
 Esiste ovviamente un *trade-off* fra la latenza e il throughput.
+I tre approcci principali alla realizzazione di un GC sono:
+1. [[Tracing garbage collection]]
+2. [[Reference counting garbage collection]]
+3. [[Generational garbage collection]]
