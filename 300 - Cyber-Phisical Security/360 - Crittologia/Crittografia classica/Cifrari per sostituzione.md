@@ -7,3 +7,11 @@ Un attacco di forza bruta richiederebbe migliaia di anni per provare tutte le po
 
 ## Crittoanalisi dell'alfabeto sostitutivo
 Purtroppo, è possibile utilizzare la *conoscenza della lingua* per semplificare il problema della [[crittoanalisi]].
+Difatti la debolezza dei cifrari monoalfabetici sta nel fatto che, anche se le lettere vengono cambiate tra di loro, non si può cambiare "l'identità" della lettera:
+- Frequenza della lettera.
+- Frequenza del bigramma o del trigramma.
+- Affinità con altre lettere.
+- Repulsione con altre lettere.
+- Tendenza alla posizione nella parola.
+
+Oltre alla *sintassi* c'è sempre la *semantica* a favorire il tutto.
