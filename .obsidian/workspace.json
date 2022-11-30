@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Algoritmi simmetrici.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Algoritmi simmetrici.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29f93a0deffd4fb8",
+  "active": "2386e993ddc732de",
   "lastOpenFiles": [
     "300 - Cyber-Phisical Security/360 - Crittologia/Steganografia.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collection.md",
