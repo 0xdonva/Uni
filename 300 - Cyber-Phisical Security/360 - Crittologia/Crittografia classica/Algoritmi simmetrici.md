@@ -6,8 +6,8 @@ Visto che mittente e destinatario utilizzano *la stessa chiave* per cifrare e de
 Tipi di algoritmi simmetrici "classici":
 - *Codifica*
 - [[Cifrari per sostituzione]].
-- Cifrari per *trasposizione*.
-- Cifrari *prodotto*: cifrari che integrano sostituzione e trasposizione.
+- [[Cifrari per trasposizione]].
+- [[Cifrari prodotto]]: cifrari che integrano sostituzione e trasposizione.
 
 ## Codifica
 La differenza fra la *codifica* e la *cifratura* è che nella codifica si utilizza un **alfabeto sostitutivo** per il messaggio originale.

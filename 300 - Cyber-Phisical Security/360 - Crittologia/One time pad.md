@@ -11,4 +11,5 @@ OTP è incondizionatamente sicuro ammesso che:
 La sicurezza dell'OTP si basa sulla effettiva casualità della chiave: se la sequenza è veramente casuale, il crittogramma non è soggetto ad attacchi.
 Problematiche di realizzazione:
 - Il problema di generare enormi quantità di chiavi effettivamente casuali.
-- La complessità della distribuzione a tutti gli interlocutori blocchi sufficienten
+- La complessità della distribuzione a tutti gli interlocutori blocchi sufficientemente lunghi di chiavi per trasmettere tutti i messaggi necessari.
+- Protezione del "pad" da copie e furti.
