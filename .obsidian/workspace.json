@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c7765e6774cf897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per sostituzione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -90,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per sostituzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2386e993ddc732de",
+  "active": "1c7765e6774cf897",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Steganografia.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collection.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Garbage collector.md",
@@ -126,7 +140,6 @@
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
     "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
     "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
-    "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
-    "500 - Linguaggi dinamici/Python/Strutture di Dati/Insieme.md"
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md"
   ]
 }
