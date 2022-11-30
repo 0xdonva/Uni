@@ -1,0 +1,1 @@
+Le lettere erano cifrate secondo un algoritmo che combinava *cifratura* e *codifica*: non solo le lettere venivano permutate, ma venivano usati dei simboli runici per riferirsi a certe parole d'uso comune.

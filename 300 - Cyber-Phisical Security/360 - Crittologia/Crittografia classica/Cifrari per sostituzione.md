@@ -15,3 +15,8 @@ Difatti la debolezza dei cifrari monoalfabetici sta nel fatto che, anche se le l
 - Tendenza alla posizione nella parola.
 
 Oltre alla *sintassi* c'è sempre la *semantica* a favorire il tutto.
+Per evitare il problema della crittoanalisi per frequenza sono state inventate varie tecniche:
+- [[Nomenclatore]]
+- [[Cifrari omofonici]]
+- [[Cifrari polialfabetici]]
+- [[Cifrari poligrafici]]

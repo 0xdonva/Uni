@@ -1,0 +1,3 @@
+Tra i più famosi **cifrari poligrafici** ci sono:
+- *Le grand Ciffre* di Rossignols: il quale usava un libro codice con un simbolo (numero di tre cifre) per ogni lettera frequente e sillaba della lingua francese (587 numeri) e una cifratura dei trigrammi più frequenti della lingua francese.
+- *Cifrario Playfair*: che cifra bigrammi invece di lettere singole, più sicuro rispetto alla [[crittoanalisi]] per frequenza in quanto ci sono $26\times26$ bigrammi invece di 26 lettere.

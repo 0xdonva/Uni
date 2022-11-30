@@ -1,0 +1,1 @@
+Nei **cifrari omofonici** si utilizza per la stessa lettera un numero di valori proporzionale alla sua *frequenza*, questo annullava la debolezza della frequenza e dell'identità delle lettere.
