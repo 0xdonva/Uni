@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2682deb8fc8397b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9739514613952ec5",
+            "id": "872d6848aabc0bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "872d6848aabc0bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +106,7 @@
   },
   "active": "872d6848aabc0bf1",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
@@ -139,7 +115,6 @@
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari polialfabetici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per sostituzione.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Nomenclatore.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari omofonici.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari poligrafici.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari omofonici.md"
   ]
 }
