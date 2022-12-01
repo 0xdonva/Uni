@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "773ff1099409222f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "872d6848aabc0bf1",
+  "active": "773ff1099409222f",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per trasposizione.md",
