@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
+                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
   },
   "active": "773ff1099409222f",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
@@ -126,7 +128,6 @@
     "300 - Cyber-Phisical Security/360 - Crittologia/One time pad.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari polialfabetici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per sostituzione.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Nomenclatore.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari omofonici.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Nomenclatore.md"
   ]
 }
