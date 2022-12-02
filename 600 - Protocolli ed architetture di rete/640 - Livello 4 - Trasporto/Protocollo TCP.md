@@ -24,4 +24,7 @@ Un protocollo orientato alla connessione ha tre fasi:
 2. *Utilizzo* della connessione.
 3. *Chiusura* della connessione.
 
-### Orientato allo scambio di un flusso diu
+### Orientato allo scambio di un flusso di dati
+Il TCP offre un'interfaccia per comunicare e non un semplice scambio di pacchetti.
+Per quanto riguarda il *flusso di dati*, il protocollo accetta come input una quantità di dati arbitraria da inviare, non ci sono limiti del pacchetto [[Protocollo IP|IP]] o per vial del protocollo H2N.
+TCP implementa la logica di **segmentazione** del flusso di dati in pacchetti: il flusso di dati viene separato in *segmenti*, i quali cono blocchi di dati che TCP invia a IP per costruire il pacchetto.
