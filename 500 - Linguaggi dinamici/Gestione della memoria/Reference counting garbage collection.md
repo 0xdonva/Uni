@@ -20,4 +20,8 @@ Il RC di un oggetto può essere cambiato:
 - se viene inserito in un *oggetto contenitore*, ad esempio una lista.
 
 #### Vantaggi e svantaggi
-Il principale vantaggio dell'approccio basato su RC è che dis-allocare la memoria degli oggetti non più raggiungibili *non bisogna attendere* l'esecuzione periodica di un algori
+Il principale vantaggio dell'approccio basato su RC è che dis-allocare la memoria degli oggetti non più raggiungibili *non bisogna attendere* l'esecuzione periodica di un algoritmo.
+La memoria può essere liberata *non appena il valore di RC arriva a zero*.
+Un problema molto serio è invece la necessità di *proteggere gli accessi* ai contatori RC degli oggetti.
+Se differenti thread potessero accedere simultaneamente ad un stesso RC (*race condition*) si potrebbero verificare situazioni di errore (*memory leak* o *dandling reference*).
+Un secondo problema è la possibilità che l'esistenza di *riferimenti circolari* impedisca la corretta de-allocazione di oggetti.
