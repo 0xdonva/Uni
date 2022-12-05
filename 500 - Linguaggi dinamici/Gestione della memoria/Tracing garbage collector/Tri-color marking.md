@@ -13,4 +13,4 @@ L'algoritmo può infatti essere eseguito in maniera interlacciata con la computa
 La colorazione iniziale avviene nel momento in cui l'oggetto viene creato.
 Inoltre, l'interprete è libero di accedere qualsiasi parte del grafo, i *mutator* possono allocare nuovi nodi mentre il *garbage collector* determina quelli raggiungibili.
 L'unico requisito per la correttezza è che venga mantenuta valida la *condizione invariante*.
-L'esecuzione del programma deve essere interrotta solo dua
+L'esecuzione del programma deve essere interrotta solo durante lo svolgimento della *terza fase*, quella della de-allocazione della memoria.
