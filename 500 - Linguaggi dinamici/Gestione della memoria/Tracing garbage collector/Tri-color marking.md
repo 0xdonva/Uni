@@ -1,0 +1,1 @@
+SI basa sull'algoritmo di Dijkstra
