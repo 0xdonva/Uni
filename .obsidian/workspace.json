@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9829dbb72003d44d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collector/Mark and sweep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "055cb4c40c32f1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collector/Tri-color marking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collector/Tri-color marking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "773ff1099409222f",
+  "active": "055cb4c40c32f1f5",
   "lastOpenFiles": [
+    "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collector/Mark and sweep.md",
+    "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collection.md",
+    "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
+    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Algoritmi simmetrici.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per trasposizione.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/One time pad.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari polialfabetici.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per sostituzione.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Nomenclatore.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari per trasposizione.md"
   ]
 }
