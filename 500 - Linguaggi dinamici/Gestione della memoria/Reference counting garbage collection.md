@@ -4,3 +4,20 @@ In Python viene adottato questo sistema, difatti ad ogni oggetto viene associata
 Nel graph model dello heap, questa variabile conta il numero di *archi entranti* nel nodo/oggetto, questa proprietà è la *condizione invariante* che l'algoritmo deve soddisfare.
 
 #### Inizializzazione del RC
+L'inizializzazione del RC è effettuata dal *mutator* nel momento in cui l'oggetto viene creato.
+Il codice Python riportato di seguito utilizza la primitiva di sistema `sys.getrefcount`.
+Si deve tenere contro che la stessa chiamata di `sys.getrefcount` provoca l'aumento di una unità del valore del RC dell'oggetto passato come parametro.
+```jupyter
+import sys
+A = [1,2]
+sys.getrefcount(A)
+```
+
+#### Operazioni che modificano il RC
+Il RC di un oggetto può essere cambiato:
+- mediante *assegnamento*, cioè se un riferimento all'oggetto appare come parte destra di un assegnamento;
+- se viene passato come *parametro* ad una funzione, perché l'oggetto viene *legato al parametro formale*;
+- se viene inserito in un *oggetto contenitore*, ad esempio una lista.
+
+#### Vantaggi e svantaggi
+Il principale vantaggio dell'approccio basato su RC è che dis-allocare la memoria degli oggetti non più raggiungibili *non bisogna attendere* l'esecuzione periodica di un algori
