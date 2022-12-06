@@ -22,3 +22,13 @@ Un **pool** può trovarsi in tre stati:
 3. *Vuoto*: quando non ci sono ancora blocchi allocati.
 
 Quando un pool è vuoto, la classe di appartenenza della *prima richiesta* di allocazione determina anche la *classe di allocazione del pool*.
+
+#### Pool in uso
+CPython organizza i pool in uso in una struttura a *due livelli*.
+La doppia lista serve perché quando un pool si svuota oppure si riempie deve essere "sganciato" e la doppia lista consente di farlo in *tempo costante*.
+
+#### Pool vuoti o completi
+I pool vuoti vengono tenuti in una *lista lineare* perché ovviamente in questo caso l'accesso è solo alla testa della lista.
+I pool completi non necessitano di essere inseriti in una struttura apposita.
+
+### Blocchi
