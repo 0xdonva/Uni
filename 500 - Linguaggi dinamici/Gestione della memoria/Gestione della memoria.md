@@ -47,4 +47,24 @@ I casi da analizzare sono tre:
 
 Pool/arene hanno un *header* che include almeno le seguenti informazioni: numero di blocchi/pool allocati e indirizzo del mio blocco/pool libero.
 L'algoritmo è in grado di capire quale caso si applica, si può notare che le dimensioni fisse di arene e pool consentono di determinare l'indirizzo iniziale conoscendo l'indirizzo di un pool o blocco componente.
-Il primo passo dell'algoritmo consiste infa
+Il primo passo dell'algoritmo consiste infatti nel *risalire dal blocco all'indirizzo iniziale del pool*.
+
+##### Caso 1
+La dis-allocazione del blocco provoca anche quella del pool, il quale viene *sganciato* dalla lista dei pool in uso e *inserito in testa* alla lista dei blocchi liberi.
+Questa situazione può eventualmente portare al *rilascio di un'arena*.
+
+##### Caso 2
+In questo caso il pool faceva evidentemente parte dei *pool completi*.
+Causa la dis-allocazione di un blocco esso deve essere inserito nella lista dei pool in uso corrispondente alla *classe di allocazione* dei blocchi.
+
+##### Caso 3
+Se c'è almeno un blocco libero il pool naturalmente rimane nella lista in uso e il blocco dis-allocato prende il posto del *blocco di testa*.
+
+#### Allocazione di un blocco
+1. In dipendenza della classe del blocco da allocare, viene scansionata la corrispondente lista dei *pool in uso*.
+2. Se esiste almeno un elemento nella lista allora il blocco può essere allocato nel primo della lista:
+	- Se nel pool ci sono blocchi *liberi*, viene usato il primo.
+	- Se non ci sono blocchi liberi, viene utilizzato l'ultimo blocco di quelli *mai allocati*.
+	- Se il blocco usato era l'*unico disponibile*, il pool diventa *completo* e viene sganciato dalla doppia lista.
+3. Se la lista dei pool relativa alla classe da allocare non ha elementi, viene prelevato un *nuovo pool* dalla testa della lista dei pool liberi e inserito nella lista dei pool in uso.
+4. Infine, se anche la lista dei pool liberi è vuota, viene allocata una *nuova arena*.
