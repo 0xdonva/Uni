@@ -69,4 +69,8 @@ Se c'è almeno un blocco libero il pool naturalmente rimane nella lista in uso e
 3. Se la lista dei pool relativa alla classe da allocare non ha elementi, viene prelevato un *nuovo pool* dalla testa della lista dei pool liberi e inserito nella lista dei pool in uso.
 4. Infine, se anche la lista dei pool liberi è vuota, viene allocata una *nuova arena*.
 
-###
+#### Vantaggi e svantaggi
+- L'utilizzo di pool con blocchi delle stesse dimensioni limita molto il problema della *frammentazione*.
+- Allocazione e dis-allocazione sono effettuate in modo *efficiente*.
+- L'interazione con il S.O. tipicamente consiste solo nella *richiesta e nel rilascio di un'arena*.
+- Basso rapporto fra *memoria utile* e *memoria allocata* al programma
