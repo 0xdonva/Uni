@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 - Linguaggi dinamici/Gestione della memoria/Generational garbage collection.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 - Linguaggi dinamici/Gestione della memoria/Generational garbage collection.md",
+                "file": "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "27467683de1c90d3",
   "lastOpenFiles": [
+    "500 - Linguaggi dinamici/Gestione della memoria/Generational garbage collection.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Garbage collector.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Reference counting garbage collection.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione automatica della memoria.md",
@@ -114,7 +115,6 @@
     "500 - Linguaggi dinamici/Gestione della memoria/Tracing garbage collection.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione manuale della memoria.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md"
   ]
 }
