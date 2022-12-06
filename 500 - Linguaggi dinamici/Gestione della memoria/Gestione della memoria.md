@@ -68,3 +68,5 @@ Se c'è almeno un blocco libero il pool naturalmente rimane nella lista in uso e
 	- Se il blocco usato era l'*unico disponibile*, il pool diventa *completo* e viene sganciato dalla doppia lista.
 3. Se la lista dei pool relativa alla classe da allocare non ha elementi, viene prelevato un *nuovo pool* dalla testa della lista dei pool liberi e inserito nella lista dei pool in uso.
 4. Infine, se anche la lista dei pool liberi è vuota, viene allocata una *nuova arena*.
+
+###
