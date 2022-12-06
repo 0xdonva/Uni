@@ -40,4 +40,11 @@ I blocchi di un pool sono a loro volta partizionati in tre gruppi:
 - *Mai allocati*: occupano uno *spazio contiguo*.
 
 #### Dis-allocazione di un blocco
-I casi da analizzare
+I casi da analizzare sono tre:
+1. Il blocco da dis-allocare è l'unico blocco allocato nel pool;
+2. Oltre al blocco da dis-allocare tutti gli altri blocchi sono allocati;
+3. Il blocco è da dis-allocare ma ci sono sia blocchi allocati sia liberi.
+
+Pool/arene hanno un *header* che include almeno le seguenti informazioni: numero di blocchi/pool allocati e indirizzo del mio blocco/pool libero.
+L'algoritmo è in grado di capire quale caso si applica, si può notare che le dimensioni fisse di arene e pool consentono di determinare l'indirizzo iniziale conoscendo l'indirizzo di un pool o blocco componente.
+Il primo passo dell'algoritmo consiste infa
