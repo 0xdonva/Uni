@@ -32,3 +32,12 @@ I pool vuoti vengono tenuti in una *lista lineare* perché ovviamente in questo 
 I pool completi non necessitano di essere inseriti in una struttura apposita.
 
 ### Blocchi
+La dimensione di un blocco può andare da un *minimo di 8 byte* fino ad un *massimo di 512 byte*, una richiesta di $k$ byte si traduce nell'allocazione di $b_k=\lfloor\frac{k-1}{8}\rfloor+1$ byte.
+Una tale dimensione di dice di *classe $b_k-1$*.
+I blocchi di un pool sono a loro volta partizionati in tre gruppi:
+- *In uso*: non sono organizzati in una struttura apposita.
+- *Liberi*: sono organizzati in una *lista lineare*.
+- *Mai allocati*: occupano uno *spazio contiguo*.
+
+#### Dis-allocazione di un blocco
+I casi da analizzare
