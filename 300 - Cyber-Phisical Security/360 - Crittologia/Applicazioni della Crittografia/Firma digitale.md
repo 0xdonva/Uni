@@ -24,4 +24,9 @@ L'insieme cifrato $M+DC$ arriva ad Alice che esegue le seguenti operazioni:
 
 ### Terze parti fidate
 #### Problema 1
-Come fanno due entità a stabilire uno scambio di c
+Come fanno due entità a stabilire uno scambio di chiavi segrete sulla rete?
+	Tramite [[Key Distribution Center]] fidati che agiscono come intermediari.
+
+#### Problema 2
+Quando Alice ottiene la chiave pubblica di Bob come può essere sicura che sia la chiave di Bob e non quella di un Attacker?
+	Tramite [[Certification Authority]] fidate.
