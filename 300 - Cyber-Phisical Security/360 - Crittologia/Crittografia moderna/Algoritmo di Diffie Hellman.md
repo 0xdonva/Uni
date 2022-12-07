@@ -5,6 +5,6 @@ L'**algoritmo di Diffie Hellman** è un protocollo per lo scambio delle chiavi:
 Ad oggi non sono noti attacchi avvenuti con successo al protocollo.
 Per questo viene usato in molti protocolli, quali:
 - SSH
-- SSH/TLS
-- IPSec
+- [[SSL]]/TLS
+- [[IPSec]]
 - PKI

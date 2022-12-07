@@ -7,3 +7,11 @@ Una CA rilascia *certificati* che garantiscono la connessione tra una chiave pub
 - Dispositivo hardware, driver.
 - Servizio informatico.
 
+### Procedura del rilascio del Certificato digitale
+Un host effettua una richiesta alla CA chiamata **Certificate Signing Request** o **CSR** inviando la copia di chiavi e firma la propria identità ID e la propria chiave pubblica con la su chiave privata.
+La CA effettua le seguenti azioni:
+1. *Verifica la firma dell'host*.
+2. *Verifica l'identità dell'host*.
+3. *Crea un certificato digitale*.
+4. *Firma il certificato digitale*.
+5. *Spedisce il certificato firmato*.
