@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1eaee2600c7d90a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Generalized Vector Space Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
+                "file": "400 - Gestione dell'informazione/Modeling and Evaluation/Generalized Vector Space Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +116,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27467683de1c90d3",
+  "active": "1eaee2600c7d90a9",
   "lastOpenFiles": [
     "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
-    "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
     "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Generational garbage collection.md",
     "500 - Linguaggi dinamici/Gestione della memoria/Garbage collector.md",
