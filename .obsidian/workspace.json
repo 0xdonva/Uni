@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27467683de1c90d3",
+            "id": "a02c35636b747bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27467683de1c90d3",
+  "active": "a02c35636b747bc2",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Senza nome.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
     "400 - Gestione dell'informazione/Modeling and Evaluation/Boolean model.md",
     "400 - Gestione dell'informazione/Modeling and Evaluation/Generalized Vector Space Model.md",
     "400 - Gestione dell'informazione/Modeling and Evaluation/Vector model.md",
-    "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md",
-    "500 - Linguaggi dinamici/Gestione della memoria/Gestione della memoria.md",
-    "500 - Linguaggi dinamici/Gestione della memoria/Generational garbage collection.md",
-    "500 - Linguaggi dinamici/Gestione della memoria/Garbage collector.md"
+    "400 - Gestione dell'informazione/Modeling and Evaluation/Modeling.md"
   ]
 }

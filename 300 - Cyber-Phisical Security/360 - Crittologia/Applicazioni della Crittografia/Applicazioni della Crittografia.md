@@ -1,4 +1,4 @@
-I concetti fondamentali della **applicazione della crittografia** sono:
+I concetti fondamentali della **applicazione della [[crittografia]]** sono:
 - *Riservatezza*: certezza che la comunicazione inviata non sia intercettabile e violabile da qualcuno.
 - *Integrità dei dati*: certezza che in nessun punto la comunicazione sia stata modificata.
 - *Autenticazione*: certezza della "identità" mittente.
@@ -20,6 +20,6 @@ Questa applicazione garantisce la *segretezza* del documento ma non la sua *aute
 ### Autenticità del documento
 ```
 Il mittente cifra il documento con la sua chiave privata.
-Il destinatario decifra il documento con la propria chiave pu.
+Il destinatario decifra il documento con la propria chiave pubblica del mittente.
 ```
-Questa applicazione garantisce la *segretezza* del documento ma non la sua *autenticità*, poiché chiunque potrebbe aver utilizzato la chiave pubblica del destinatario.
+Questa applicazione garantisce la *autenticità* del documento ma non la sua *segretezza*, poiché chiunque intercetti il messaggio potrebbe decifrare il messaggio.
