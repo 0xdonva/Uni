@@ -20,4 +20,21 @@ Ogni segmento TCP contiene:
 - *Checksum* (16 bit): controllo integrità dei dati trasportati nel segmento TCP (del tutto analogo al caso del protocollo UDP).
 - *Urgent pointer* (16 bit): puntatore al termine dei dati urgenti.
 - *TCP options*: campo opzionale di lunghezza variabile.
-- *Zero padding*: per header con lunghezza multipla di 32 bit (se opzioni)
+- *Zero padding*: per header con lunghezza multipla di 32 bit (se opzioni).
+
+### Checksum TCP
+Utilizzato per rilevazione errori nei dati trasportati: calcolato usando un maggior numero di informazioni di quelle presenti nell'header TCP.
+
+### Dati urgenti
+Servono a trasportare segnali speciali come `^C`, `^Z`,... in modo che possano essere recapitati immediatamente al processo applicativo.
+All'arrivo all'host destinatario, scavalcano lo stream e vengono recapitati immediatamente al processo applicativo.
+Il puntatore punta alla fine del blocco dei dati urgenti.
+I dati urgenti iniziano all'inizio del segmento.
+
+### Negoziazione del MSS
+Le *TCP options* consento di negoziare il *Maximum Segment Size* (*MSS*) per:
+- Garantire che il segmento entri nel rispettivo buffer.
+- Evitare il più possibile la frammentazione al livello h2n.
+- Sfruttare al meglio la banda.
+
+Se MSS è *troppo grande*, l'overhead è eccessivo dovuto agli header mentre, con un MSS troppo grande ci sono elevati rischi di frammentazione dell'attraversamento dei livelli dello stack sottostanti.
