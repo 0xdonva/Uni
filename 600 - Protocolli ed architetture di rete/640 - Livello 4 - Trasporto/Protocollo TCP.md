@@ -3,6 +3,8 @@ Il **protocollo TCP** (**Transmission Control Protocol**) rispetto a [[Protocoll
 - Offre un paradigma di comunicazione *orientato alla connessione* e allo scambio di un *flusso di dati*.
 
 ### Affidabilità
+Le caratteristiche di affidabilità dipendono dal *paradigma di comunicazione*.
+Un protocollo affidabile orientato alla connessione e al flusso deve *prevenire l'alterazione dell'intero flusso*, quindi anche l'apertura e la chiusura devono essere affidabili.
 Il livello di *inaffidabilità* del canale di comunicazione determina la complessità del protocollo che deve gestire tale inaffidabilità.
 Quindi per creare un canale di comunicazione "virtuale" affidabile serve:
 - Capacità di *rilevare* un problema di trasferimento.
@@ -27,4 +29,14 @@ Un protocollo orientato alla connessione ha tre fasi:
 ### Orientato allo scambio di un flusso di dati
 Il TCP offre un'interfaccia per comunicare e non un semplice scambio di pacchetti.
 Per quanto riguarda il *flusso di dati*, il protocollo accetta come input una quantità di dati arbitraria da inviare, non ci sono limiti del pacchetto [[Protocollo IP|IP]] o per vial del protocollo H2N.
-TCP implementa la logica di **segmentazione** del flusso di dati in pacchetti: il flusso di dati viene separato in *segmenti*, i quali cono blocchi di dati che TCP invia a IP per costruire il pacchetto.
+TCP implementa la logica di **segmentazione** del flusso di dati in pacchetti: il flusso di dati viene separato in *[[Segmento TCP|segmenti]]*, i quali cono blocchi di dati che TCP invia a IP per costruire il pacchetto.
+
+### Altri dettagli del protocollo TCP
+#### Trasferimento con buffer
+Le logiche di gestione vengono gestite tramite l'utilizzo di buffer di memoria gestiti dal sistema operativo.
+
+#### Connessione full duplex
+Una volta instaurata una connessione, è possibile il trasferimento contemporaneo in entrambe le direzioni della connessione.
+
+#### Controllo di flusso e congestione
+Il protocollo regola la velocità dei dati scambiati rispetto alla capacità delle entità comunicanti e della rete.
