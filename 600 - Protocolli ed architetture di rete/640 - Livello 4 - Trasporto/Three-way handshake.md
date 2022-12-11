@@ -33,4 +33,9 @@ Essendo full- duplex, va chiusa da entrambe le parti:
 
 Il client TCP attende per un tempo `TIME_WAIT` prima di chiudere definitivamente la connessione per poter gestire queste situazioni anomale.
 
-## C
+## Chiusura "forzata" della connessione
+In condizioni normali, la connessione viene chiusa in modo "polite" tramite lo scambio di segmenti di controllo `FIN` e `ACK`.
+Talvolta, si verificano condizioni che portano ad interrompere la connessione in modo forzato, o dal lato server o dal lato client.
+TCP fornisce un meccanismo per la chiusura rapida del segmento *reset*.
+L'host che decide il reset pone il campo del segmento `RST`=1.
+L'altro nodo chiude immediatamente la connessione, vengono rilasciate tutte le risorse utilizzate dalla connessione.
