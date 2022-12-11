@@ -38,3 +38,10 @@ Le *TCP options* consento di negoziare il *Maximum Segment Size* (*MSS*) per:
 - Sfruttare al meglio la banda.
 
 Se MSS è *troppo grande*, l'overhead è eccessivo dovuto agli header mentre, con un MSS troppo grande ci sono elevati rischi di frammentazione dell'attraversamento dei livelli dello stack sottostanti.
+
+### Numeri di sequenza e acknowledgement
+Per evitare la possibilità che sia presente un segmento identificato con lo stesso numero appartenente a una connessione precedente con identici numeri di porta, il numero di sequenza è dato da:
+- Il primo *Initial Sequence Number* (*ISN*) di un flusso è pseudo-casuale.
+- I successivi *sequence number* sono offset del primo byte del flusso inviati dal mittente.
+- L'intervallo dei numeri di sequenza garantisce che lo stesso numero non sia riutilizzato prima di qualche ora.
+- Grazie al TTL dei pacchetti IP, segmenti con lo stesso numero non coesisteranno sulla rete.
