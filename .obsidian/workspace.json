@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7b8d0de1bb01a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo AH.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "134b9573e43a14be",
+  "active": "b7b8d0de1bb01a4f",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ESP.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo AH.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
@@ -125,8 +139,6 @@
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Segmento TCP.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md"
   ]
 }

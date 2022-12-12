@@ -11,7 +11,7 @@ Inizialmente progettato per IPv6 e portato poi su IPv4.
 ## Componenti chiave
 - **Security Associations** (**SA**): creazione e gestione di SA.
 - **Security Protocols**: per l'integrità e autenticazione *[[protocollo AH|AH]]* mentre per la riservatezza *[[Protocollo ESP|ESP]]*.
-- **Internet Key Exchange** (**IKE**): gestione delle chiavi simmetriche.
+- **Internet Key Exchange** (**[[Protocollo IKE|IKE]]**): gestione delle chiavi simmetriche.
 
 ## Security Associations
 *Accordo tra due entità per stabilire come trasmettere informazioni in modo sicuro*.

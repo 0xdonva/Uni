@@ -1,0 +1,1 @@
+Il **protocollo Encapsulating Security Payload** nella prima versione fornisce i servizi di riservatezza, cifrando il payload del pacchetto IP, mentre nella seconda versione è in grado di fornire anche autenticazione (non copre però l'IP a differenza di [[Protocollo AH|AH]]).
