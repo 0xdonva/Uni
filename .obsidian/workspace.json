@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc4f261533ef2d4",
+        "id": "9904db3c921d1a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "59d6ddca015dc22a",
+            "id": "66bf0a9709202dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a643a9bb40f45fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Segmento TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3cc4144ec690e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Three-way handshake.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -103,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Three-way handshake.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3cc4144ec690e3f",
+  "active": "66bf0a9709202dd4",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
+    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Three-way handshake.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Segmento TCP.md",
     "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia.md"
   ]
 }
