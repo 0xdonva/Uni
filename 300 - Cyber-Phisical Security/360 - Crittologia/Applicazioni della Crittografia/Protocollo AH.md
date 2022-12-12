@@ -1,0 +1,1 @@
+Il **protocollo Authentication Header** fornisce i seguenti meccanismi
