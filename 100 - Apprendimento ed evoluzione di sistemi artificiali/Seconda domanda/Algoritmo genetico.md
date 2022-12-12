@@ -9,73 +9,48 @@ Parlando di *cambiamento delle specie*, a livello storico esistono *due filoni d
 
 Nel caso di Darwin, l’ambiente esercita una pressione selettiva che favorisce i portatori di caratteri vantaggiosi, e coloro che non li possiedono verranno eliminati, lasciando solo quelli con le caratteristiche migliori.
 
-La pressione selettiva fa si che due specie che occupano lo stesso luogo competono per le stesse risorse ambientali(che sono una risorsa finita), dove a sopravvivere è quella che riesce a crescere più velocemente viceversa ci sarà il caso del estinzione(sopravvivenza del più adatto).
+La *pressione selettiva* fa si che *due specie* che occupano lo stesso luogo *competono* per le stesse risorse ambientali (che sono una risorsa finita), dove a sopravvivere è quella che riesce a crescere più velocemente viceversa ci sarà il caso del estinzione (*sopravvivenza del più adatto*).
 
-Darwin, pur avendo intuito le caratteristiche dell’evoluzione non ne conosce ilmeccanismo, che viene alla luce in seguito agli esperimenti di Mendel e alle
-scoperte di Chargaff che dice che il DNA trasmette l’informazione genetica.
+Darwin, pur avendo intuito le caratteristiche dell’evoluzione non ne conosce il meccanismo, che viene alla luce in seguito agli esperimenti di Mendel e alle scoperte di Chargaff che dice che il DNA trasmette l’informazione genetica.
 
-Il DNA è una sequenza di nucleotidi, ognuno dei quali contiene una base azotata
-● A-Adenina
-● C-Citosina
-● G-Gunina
-● T-Timina
+Il DNA è una sequenza di nucleotidi, ognuno dei quali contiene una base azotata:
+- A-Adenina
+- C-Citosina
+- G-Gunina
+- T-Timina
 
-Il cambiamento Darwiniano, avviene per
-● Mutazioni puntiformi: modifiche casuali e puntuali nella sequenza nucleotidica di un
-gene.
+### Il cambiamento Darwiniano
+Avviene per:
+- *Mutazioni puntiformi*: modifiche casuali e puntuali nella sequenza nucleotidica di un gene.
+- *Duplicazione dei geni*: divergenza delle coppie dei cromosomi omologhi durante la meiosi.
+- *Ricombinazione cromosomica*: il cosiddetto “crossing over”, cioè lo scambio di porzioni omologhe di materiale genetico durante la meiosi.
 
-● Duplicazione dei geni: divergenza delle coppie dei cromosomi omologhi durante la
-meiosi
-● Ricombinazione cromosomica: il cosiddetto “crossing over”, cioè lo scambio di
-porzioni omologhe di materiale genetico durante la meiosi
-Evoluzione ed apprendimento sono molto simili tra loro, in quanto nel corso
-dell’evoluzione una specie apprende implicitamente le caratteristiche stabili dell’ambiente in
-cui vive. L’apprendimento può essere visto come anche un processo di generazione di
-diversi comportamenti e di selezione di quelli che sono i più adatti.
-Definizione: Fitness di un individuo è definita come il numero di discendenti fertili.
-Applicato al modello matematico visto sopra, questo discorso fa capire che è la popolazione
-con fitness più alta ad avere il sopravvento nell’accesso e nell’uso delle risorse.
-Si possono usare tutte queste proprietà viste fin’ora per poter generare i cosiddetti
-“Algoritmi Genetici”. Si avranno in particolare:
-● Una popolazione iniziale di individui differenti
-● Un sistema di valutazione per ciascun individuo
-● Un meccanismo stocastico per generare nuovi individui, partendo da quelli già
-presenti con fitness più elevata
-● Un meccanismo che introduca novità nei nuovi individui, mantenendoli comunque mediamente più simili ai genitori che agli altri individui.
+*Evoluzione* ed *apprendimento* sono molto simili tra loro, in quanto nel corso dell’evoluzione una specie apprende implicitamente le caratteristiche stabili dell’ambiente in cui vive. L’apprendimento può essere visto come anche un processo di generazione di diversi comportamenti e di selezione di quelli che sono i più adatti.
+
+*Definizione*: Fitness di un individuo è definita come il *numero di discendenti fertili*. Applicato al modello matematico visto sopra, questo discorso fa capire che è la popolazione con fitness più alta ad avere il sopravvento nell'accesso e nell'uso delle risorse.
+
+Si possono usare tutte queste proprietà viste fin’ora per poter generare i cosiddetti “**Algoritmi Genetici**”. 
+Si avranno in particolare:
+- Una *popolazione iniziale di individui differenti*.
+- Un *sistema di valutazione* per ciascun individuo.
+- Un *meccanismo* stocastico per *generare nuovi individui*, partendo da quelli già presenti con fitness più elevata.
+- Un *meccanismo* che introduca *novità nei nuovi individui*, mantenendoli comunque mediamente più simili ai genitori che agli altri individui.
 
 ### Esempio
-Un insieme di soluzioni è detta popolazione, m stringhe binarie a ciascuna delle quali è
-associato un valore di fitness ovvero il numero di discendenti fertili. Applicato il modello
-matematico secondo il quale “sopravvive” il più forte, riusciamo a capire che è la
-popolazione con fitness più alta ad avere il sopravvento nell’accesso e nell’uso delle
-risorse.
-Le stringhe binarie rappresentano cromosomi, e i geni che li compongono codificano una
-determinata proteina, che vanno quindi a determinare il “corpo” dell’individuo.
-Per risolvere i problemi imitando la selezione naturale, si valutano gli individui della
-popolazione corrente, si trovano i più adatti, li si ricombina, li si muta e si dà origine ad una
-nuova popolazione, e il processo si ripete.
-La scelta dei genitori proporzionale al fitness (ogni individuo ha una probabilità di essere
-scelto) è quella più vicina alla metafora biologica, ma presenta svantaggi:
-● La ricombinazione (crossover) di due individui che portano , può generare individui
-molto migliori di entrambi, con fitness simili oppure relativamente scadenti. Questa
-procedura però, non è in grado di creare un tratto se non è presente in nessuno dei
-due genitori.
-● Per questo si introduce la mutazione, che può seguire due metodi:
+*Un insieme di soluzioni è detta popolazione*, $m$ stringhe binarie a ciascuna delle quali è associato un valore di fitness ovvero il numero di discendenti fertili. Applicato il modello matematico secondo il quale “sopravvive” il più forte, riusciamo a capire che è la popolazione con *fitness più alta ad avere il sopravvento nell'accesso* e nell'uso delle *risorse*.
+Le stringhe binarie rappresentano *cromosomi*, e i *geni* che li compongono *codificano una determinata proteina*, che vanno quindi a determinare il “corpo” dell’individuo.
+Per risolvere i problemi imitando la selezione naturale, si valutano gli individui della popolazione corrente, si trovano i più adatti, li si ricombina, li si muta e si dà origine ad una nuova popolazione, e il processo si ripete.
 
-● con una certa probabilità ogni nuovo individuo originato dal crossover viene
-mutato in una posizione casuale
-● oppure prendo un genitore e lo muto sicuramente
+La *scelta dei genitori proporzionale al fitness* (ogni individuo ha una probabilità di essere scelto) è quella più vicina alla metafora biologica, ma *presenta svantaggi*:
+- La ricombinazione (*crossover*) di due individui che portano , può generare individui molto migliori di entrambi, con fitness simili oppure relativamente scadenti. Questa procedura però, non è in grado di creare un tratto se non è presente in nessuno dei due genitori.
+- Per questo si introduce la *mutazione*, che può seguire due metodi:
+	- Con una certa probabilità ogni nuovo individuo originato dal crossover viene mutato in una posizione casuale.
+	- Oppure prendo un genitore e lo muto sicuramente.
 
-La fitness media cresce con le iterazioni, e tende a raggiungere quella dell’individuo
-migliore, anche se questo non accade in natura. Quando la fitness media si avvicina
-sufficientemente alla fitness del migliore, l’algoritmo può essere arrestato.
+La *fitness media cresce* con le iterazioni, e *tende a raggiungere* quella dell’*individuo migliore*, anche se questo non accade in natura. Quando la fitness media si avvicina sufficientemente alla fitness del migliore, l’algoritmo può essere arrestato.
 
-Se non ci fosse crossover, gli schemi migliori si replicherebbero, ma non ci sarebbe la
-componente che crea novità. In generale, la popolazione tende a convergere verso una
-situazione in cui tutti si somigliano, e questo porta a fenomeni di convergenza prematura
-(una popolazione non ottimale colonizza tutto), il che arresta il progresso.
-Per controllare questo fenomeno, è necessario poter valutare e controllare i tempi di
-convergenza.
+Se non ci fosse crossover, gli schemi migliori si *replicherebbero*, ma non ci sarebbe la *componente che crea novità*. In generale, la popolazione *tende a convergere* verso una situazione in cui *tutti si somigliano*, e questo porta a fenomeni di convergenza prematura (una popolazione non ottimale colonizza tutto), il che arresta il progresso.
+Per controllare questo fenomeno, è necessario poter valutare e controllare i tempi di *convergenza*.
 
 ## Tecniche per il rallentamento della convergenza
 ### Strategia delle nicchie
