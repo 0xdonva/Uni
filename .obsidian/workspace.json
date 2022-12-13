@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49be731d7aff7946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo IKE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e55529f4afbfcfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ISAKMP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "75ca566de29ce5f0",
@@ -77,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ISAKMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "088ff05a19e9cbc9",
+  "active": "3e55529f4afbfcfa",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo IKE.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Seconda domanda/Algoritmo genetico.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Prima domanda/Netlogo.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Prima domanda/Swarm intelligence.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Prima domanda/Sistemi multi-agente.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Ipsec.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ESP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo AH.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Three-way handshake.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md"
   ]
 }
