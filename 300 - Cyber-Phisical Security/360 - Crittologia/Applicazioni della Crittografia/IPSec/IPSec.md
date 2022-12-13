@@ -10,7 +10,7 @@ Inizialmente progettato per IPv6 e portato poi su IPv4.
 
 ## Componenti chiave
 - **Security Associations** (**SA**): creazione e gestione di SA.
-- **Security Protocols**: per l'integrità e autenticazione *[[protocollo AH|AH]]* mentre per la riservatezza *[[Protocollo ESP|ESP]]*.
+- **Security Protocols**: per l'integrità e autenticazione *[[Protocollo AH|AH]]* mentre per la riservatezza *[[Protocollo ESP|ESP]]*.
 - **Internet Key Exchange** (**[[Protocollo IKE|IKE]]**): gestione delle chiavi simmetriche.
 
 ## Security Associations
@@ -51,3 +51,13 @@ Connessione gateway-to-gateway.
 ##### Svantaggi
 - Impossibile differenziare i nodi in base all'IP.
 - Computazionalmente oneroso: servono gateway potenti.
+
+## Vantaggi e svantaggi
+### Vantaggi
+- Non richiede modifiche hardware e del software dei dispositivi di rete.
+- Rendendo sicure tutte le comunicazioni a livello network, di conseguenza tutti i protocolli e le applicazioni che utilizzano IP beneficiano di un alto livello di sicurezza.
+
+### Svantaggi
+- Necessità di modifiche allo stack TCP/IP standard.
+- È abbastanza complesso da gestire.
+- È un protocollo di sicurezza punto-punto, non funziona per reti broadcast.

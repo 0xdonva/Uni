@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/IPSec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "417eda1bffe48196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/SSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo IKE.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo IKE.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ISAKMP.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ISAKMP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ISAKMP.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e55529f4afbfcfa",
+  "active": "417eda1bffe48196",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo IKE.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/IPSec.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ISAKMP.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo IKE.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Seconda domanda/Algoritmo genetico.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Prima domanda/Netlogo.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Prima domanda/Swarm intelligence.md",
     "100 - Apprendimento ed evoluzione di sistemi artificiali/Prima domanda/Sistemi multi-agente.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo ESP.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo AH.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ESP.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo AH.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md"
   ]
 }
