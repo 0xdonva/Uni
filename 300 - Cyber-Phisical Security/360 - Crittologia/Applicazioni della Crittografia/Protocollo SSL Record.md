@@ -1,0 +1,2 @@
+Il **protocollo SSL Record** è interfacciato su di un protocollo di trasporto affidabile come il TCP.
+Questo protocollo è utilizzato per l'incapsulamento dei dati provenienti dai protocolli di livello superiore.
