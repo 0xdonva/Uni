@@ -22,4 +22,4 @@ Metodi di compressione.
 
 ##### Secondo livello: SSL Record
 Una volta ultimata la fase di handshake, il protocollo SSL Record provvede a trasferire i dati cifrati mediante la *chiave simmetrica di sessione* condivisa nella fase precedente.
-Fornisce i servizi di sicure
+Fornisce i servizi di sicurezza di base: responsabile di trasformare i dati delle applicazioni secondo le modalità concordate nella fase precedente.

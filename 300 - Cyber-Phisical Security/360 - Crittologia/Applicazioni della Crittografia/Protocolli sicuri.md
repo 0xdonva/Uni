@@ -4,6 +4,6 @@ Non possono garantire standard di sicurezza adeguati per applicazioni che tratta
 Necessità di *crittografare* il messaggio, di garantirne l'*integrità* e di *autenticarne* la sorgente.
 Principali protocolli di sicurezza:
 - Livello 3: [[IPSec]].
-- Livello 4: [[SSL]]/TLS.
+- Livello 4: [[Protocollo SSL|SSL]]/TLS.
 - Livello 5: HTTPS, SSH, PGP,...
 - 
