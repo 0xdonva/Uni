@@ -1,0 +1,1 @@
+Un **Intrusion Detection System** (**IDS**) è uno dei tipici strumenti di difesa come la [[c]]
