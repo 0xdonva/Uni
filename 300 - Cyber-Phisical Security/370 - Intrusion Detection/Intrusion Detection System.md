@@ -1,1 +1,4 @@
-Un **Intrusion Detection System** (**IDS**) è uno dei tipici strumenti di difesa come la [[c]]
+L'*intrusion detection* è il processo di *identificazione* delle attività di intrusione, non include la *prevenzione* delle intrusioni e le possibili *reazioni* ad attività di intrusione.
+Questo è necessario per realizzare un meccanismo di protezione multi-livello, perché gli attacchi non arrivano solo dall'esterno e perché registra attacchi e tentativi di attacco.
+
+Un **Intrusion Detection System** (**IDS**) è uno dei tipici strumenti di difesa come la [[crittografia]] e i [[protocolli sicuri]], è un sistema di *rilevazione*,*segnalazione* e *logging* delle attività di intrusione o utilizzo illecito dei dispositivi di rete, sistemi e applicazioni.
