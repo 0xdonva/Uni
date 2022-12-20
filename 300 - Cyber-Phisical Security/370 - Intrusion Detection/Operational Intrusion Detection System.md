@@ -9,3 +9,6 @@ Presentano servizi che possono apparire interessanti. In questo modo è possibil
 - Individuazione di connessioni ostili.
 - Tracciabilità delle attività dei malintenzionati.
 
+#### Svantaggi
+- Possono esser compromessi ed utilizzati da un malintenzionato.
+- Sistema non è in produzione.
