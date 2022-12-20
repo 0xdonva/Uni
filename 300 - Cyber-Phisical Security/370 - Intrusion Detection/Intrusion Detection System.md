@@ -44,4 +44,23 @@ Nel caso vengano rilevati attacchi in corso, vengono loggati.
 Questi IDS oltre al logging hanno la possibilità di prendere provvedimenti quando rilevano un attacco.
 L'obbiettivo è rendere le intrusioni inoffensive quanto prima possibile e limitare gli eventuali danni.
 
-### Localizzazione e tempistiv
+### Localizzazione
+#### Host level
+La funzione di IDS è localizzata su un singolo host; l'analisi è effettuata solo sull'host che ospita l'IDS oppure su di un segmento di rete sorvegliato dal sistema.
+
+#### Network level
+È tipicamente un IDS distribuito, in cui sono presenti vari sensori e un collettore di raccolta dei dati. È il sistema più utilizzato nelle reti di grandi dimensioni.
+
+### Tempistica
+#### Off-line o Interval oriented
+L'analisi viene effettuata ad intervalli regolari poiché è un processo computazionalmente oneroso.
+
+#### On-line
+L'analisi è continua. Rispetto alla tempistica off-line, la risposta può essere molto più tempestiva, quindi permette di limitare i danni se un attacco viene identificato.
+
+### Target
+#### [[Host Intrusion Detection System]]
+
+#### [[Network Intrusion Detection System]]
+
+#### Operational Intrusion Detection System (Honeypot)
