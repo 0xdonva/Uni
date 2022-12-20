@@ -21,5 +21,27 @@ Gli indicatori di prestazione di un IDS sono:
 
 ## Principali tipi di IDS
 ### Metodi di rilevamento
-#### Signature based
-Comportamento basato sull'assuntio
+#### [[Signature based]]
+Comportamento basato sull'assunto che gli attacchi possono essere individuati ricercando pattern specifici o sequenze di eventi.
+
+#### [[Statistical analysis]]
+Operano definendo il normale comportamento del sistema e cercano le deviazioni sostanziali da esso. Si accetta il principio che gli attacchi sono un sottoinsieme delle anomalie.
+
+### Modalità di analisi
+#### Stateless inspection
+Capacità di analizzare il singolo pacchetto, ma non una connessione completa.
+
+#### Stateful inspection
+Capacità di analizzare il flusso di pacchetti relativi ad una connessione nel loro insieme.
+
+### Reattività
+#### Passive analysis
+Gli IDS catturano una copia di tutti i pacchetti che vedono passare e li analizzano per cercare di individuare eventuali attacchi o azioni illegali.
+L'analisi passiva serve per la rilevazione, non è invadente per il normale funzionamento della rete e non ne peggiora significativamente le prestazioni.
+Nel caso vengano rilevati attacchi in corso, vengono loggati.
+
+#### Active analysis
+Questi IDS oltre al logging hanno la possibilità di prendere provvedimenti quando rilevano un attacco.
+L'obbiettivo è rendere le intrusioni inoffensive quanto prima possibile e limitare gli eventuali danni.
+
+### Localizzazione e tempistiv
