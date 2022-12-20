@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0dec99a6d37241e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Host Intrusion Detection System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Network Intrusion Detection System.md",
+                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Host Intrusion Detection System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae4ba7d36b7773f0",
+  "active": "e0dec99a6d37241e",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Network Intrusion Detection System.md",
     "300 - Cyber-Phisical Security/370 - Intrusion Detection/Intrusion Detection System.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo SSH.md",
@@ -127,7 +140,6 @@
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo S-MIME.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo HTTPS.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/IPSec.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md"
   ]
 }
