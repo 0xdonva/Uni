@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
-                "mode": "preview",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Application Gateway.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/Cifrari prodotto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "190894ac51e1ad36",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Tipi di firewall/Firewall Packet Filter.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Firewall.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Segmentazione e segregazione.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/PAT.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/NAT.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/Meccanismi di sicurezza di rete.md",
-    "300 - Cyber-Phisical Security/340 - Sicurezza nella rete locale/VLAN.md",
-    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Operational Intrusion Detection System.md",
-    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Host Intrusion Detection System.md",
-    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Intrusion Detection System.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algortimi asimmetrici.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Handshake SSL.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Algoritmo di Diffie Hellman.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo SSH.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia moderna/Cifratura RSA.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Crittografia classica/One time pad.md"
   ]
 }

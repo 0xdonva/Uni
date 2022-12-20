@@ -7,6 +7,7 @@ Due interlocutori possono utilizzare la steganografia per inviarsi messaggi nasc
 Tipicamente, i file di copertura moderni sono file multimediali, ottenuti:
 - Da un processo di conversione analogico-digitale a cui si aggiunge un qualche tipo di rumore.
 - Direttamente da file digitali.
+
 Ogni codifica binaria può essere vista come uno strumento di misura più o meno preciso.
 In questo tipo di file multimediali è possibile alterare pochi bit senza alterare in modo evidente il contenuto originario.
 Quasi tutti i programmi di steganografia moderna si basano su questo concetto, e sfruttano la diffusione di file contenenti una codifica digitale di immagini, video, suoni.
