@@ -3,6 +3,7 @@ Questo la rende nettamente migliore della semplice LAN perché questa a problemi
 Tecnicamente, una __VLAN__ equivale alla creazione di un _dominio di broadcast_:
 - Gli host che si trovano all'interno di una VLAN possono comunicare direttamente.
 - Gli host che si trovano in VLAN differenti possono comunicare mediante l'intermediazione di un dispositivo di rete.
+
 Una VLAN _segmenta logicamente_ gli host in sottoreti differenti, ciascuna VLAN è realizzata mediante porte di switching private.
 Il traffico può essere distribuito tra VLAN differenti mediante router che implementano policy con specifiche "_access list_".
 
@@ -12,6 +13,7 @@ Gli host possono essere aggregati in VLAN tramite soluzioni software basate su:
 - Indirizzo MAC.
 - Indirizzo IP.
 - Tipo di protocollo.
+
 È possibile realizzare VLAN mediante configurazione statica o dinamica.
 Il traffico VLAN tra switch è _identificato_ mediante tag o _incapsulato_ al fine di identificare la VLAN di destinazione.
 
