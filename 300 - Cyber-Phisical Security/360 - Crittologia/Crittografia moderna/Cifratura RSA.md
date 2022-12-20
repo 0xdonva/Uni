@@ -19,4 +19,4 @@ I numeri che ci interessano sono i numeri primi $p$ per i quali le potenze del $
 ## Principi di robustezza
 L'algoritmo di [[crittoanalisi]] è noto, ma è *computazionalmente intrattabile*, individuare una chiave di decifrazione conoscendo l'algoritmo e la chiave di cifratura.
 Quindi, il sistema RSA è sicuro nel momento in cui $N$ ha qualche centinaio di cifre e la scomposizione supera la capacità di calcolo attuali e quelle del prossimo futuro.
-Dovendo usare chiavi molto lunghe, la [[Algortimi asimmetrici|crittografia asimmetrica]] è *computazionalmente molto più onerosa* di quella [[Algoritmi simmetrici|simmetrica]], servono sopratutto chiavi $\ge 2048$ bit.
+Dovendo usare chiavi molto lunghe, la [[Algoritimi asimmetrici|crittografia asimmetrica]] è *computazionalmente molto più onerosa* di quella [[Algoritmi simmetrici|simmetrica]], servono sopratutto chiavi $\ge 2048$ bit.
