@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ISAKMP.md",
+                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Operational Intrusion Detection System.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ISAKMP.md",
+                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Operational Intrusion Detection System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "5d0ab43dc6f9f438",
   "lastOpenFiles": [
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo IKE.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ESP.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo AH.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/IPSec.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
+    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Network Intrusion Detection System.md",
+    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Host Intrusion Detection System.md",
+    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Intrusion Detection System.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo HTTPS.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo SSH.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/PGP.md",
     "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo S-MIME.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL Record.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL Record.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Handshake SSL.md"
   ]
 }

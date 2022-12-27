@@ -5,5 +5,4 @@ Necessità di *crittografare* il messaggio, di garantirne l'*integrità* e di *a
 Principali protocolli di sicurezza:
 - Livello 3: [[IPSec]].
 - Livello 4: [[Protocollo SSL|SSL]]/TLS.
-- Livello 5: HTTPS, SSH, PGP,...
-- 
+- Livello 5: [[Protocollo HTTPS|HTTPS]], [[Protocollo SSH|SSH]], [[PGP]],...
