@@ -28,9 +28,19 @@
                 "currentVersion": "1.1.8"
               }
             }
+          },
+          {
+            "id": "87fa5ca9f2666182",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +134,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "5d0ab43dc6f9f438",
+  "active": "87fa5ca9f2666182",
   "lastOpenFiles": [
     "300 - Cyber-Phisical Security/370 - Intrusion Detection/Network Intrusion Detection System.md",
     "300 - Cyber-Phisical Security/370 - Intrusion Detection/Host Intrusion Detection System.md",
