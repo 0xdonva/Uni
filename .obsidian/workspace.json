@@ -13,34 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Operational Intrusion Detection System.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/IPSec.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "5d0ab43dc6f9f438",
+            "id": "b14ac41389901657",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Security Association.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "87fa5ca9f2666182",
+            "id": "9d2bbad9afec4e93",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Immagini/Pasted image 20221212123951.png"
+              }
+            }
+          },
+          {
+            "id": "d6b7a41f4ab3d47b",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.8"
+                "currentVersion": "1.1.9"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 - Cyber-Phisical Security/370 - Intrusion Detection/Operational Intrusion Detection System.md",
+                "file": "Immagini/Pasted image 20221212123951.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +146,17 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "87fa5ca9f2666182",
+  "active": "d6b7a41f4ab3d47b",
   "lastOpenFiles": [
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Security Association.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/IPSec.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ISAKMP.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo IKE.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo AH.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ESP.md",
+    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Operational Intrusion Detection System.md",
     "300 - Cyber-Phisical Security/370 - Intrusion Detection/Network Intrusion Detection System.md",
     "300 - Cyber-Phisical Security/370 - Intrusion Detection/Host Intrusion Detection System.md",
-    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Intrusion Detection System.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo HTTPS.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo SSH.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/PGP.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo S-MIME.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocolli sicuri.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL Record.md",
-    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Handshake SSL.md"
+    "300 - Cyber-Phisical Security/370 - Intrusion Detection/Intrusion Detection System.md"
   ]
 }
