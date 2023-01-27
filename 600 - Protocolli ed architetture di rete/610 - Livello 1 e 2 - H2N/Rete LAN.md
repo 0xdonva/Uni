@@ -6,7 +6,7 @@ Le LAN che costituiscono gli elementi fondamentali di accesso a Internet sono de
 Le _back end LAN_ realizzano sistemi (dipartimentali) di medie dimensioni, interconnettendo server, dispositivi di storage, computer, ecc.
 
 ### Backbone LAN
-Le _backbone LAN_ servono per interconnettere diverse back-end Lan e devono garantire: affidabilità e un'elevata capacità di traffico (tipicamente >1 Gbps, più raramente fino a 100 Gbps).
+Le _backbone LAN_ servono per interconnettere diverse back-end LAN e devono garantire: affidabilità e un'elevata capacità di traffico (tipicamente >1 Gbps, più raramente fino a 100 Gbps).
 
 ## Topologie per LAN
 A seconda dei contesti e dei protocolli impiegati, possiamo individuare diverse topologie di LAN:
