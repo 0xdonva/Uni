@@ -13,7 +13,7 @@ L'IFG serve per garantire agli host in ascolto sulla [[rete LAN]] di poter disti
 Prima di trasmettere un host deve ascoltare per un tempo pari all'IFG il canale e deve assicurarsi che sia libero
 
 ## Multiple Access
-_Multiple Access_ o _accessi multipli_ e cioè che nonostante la funzione __carrier sense__, essendo un protocollo decentralizzato, due host potrebbero decidere di trasmettere in contemporanea, questo perchè essendo il tempo di propagazione non nullo due host possono presumere che il canale sia vuoto allo stesso momento.
+_Multiple Access_ o _accessi multipli_ e cioè che nonostante la funzione __carrier sense__, essendo un protocollo decentralizzato, due host potrebbero decidere di trasmettere in contemporanea, questo perché essendo il tempo di propagazione non nullo due host possono presumere che il canale sia vuoto allo stesso momento.
 
 ## Collision Detection
 _Collision Detection_ o _rilevamento della collisione_ in caso si verifichi una sovrapposizione di trasmissioni si ha una collisione.
