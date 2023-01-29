@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
-                "mode": "source",
+                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Tabella di routing.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Livello transport.md",
+                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Tabella di routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "d61ea40e8ef0e61a",
   "lastOpenFiles": [
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo TCP.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Segmento TCP.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Protocollo UDP.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Porta.md",
-    "600 - Protocolli ed architetture di rete/640 - Livello 4 - Trasporto/Multiplazione e demultiplazione.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Indirizzo IP.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Router.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo IP.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Roba da scomporre/Protocolli di routing su scala geografica.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo di routing.md",
     "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/NAT router.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP forwarding.md"
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP forwarding.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP Datagram.md",
+    "Immagini/Pasted image 20221105123217.png",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Internet.md",
+    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Indirizzo IP.md"
   ]
 }
