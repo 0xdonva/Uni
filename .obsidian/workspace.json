@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Tabella di routing.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Handshake SSL.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Tabella di routing.md",
+                "file": "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Handshake SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "d61ea40e8ef0e61a",
   "lastOpenFiles": [
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Router.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo IP.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Roba da scomporre/Protocolli di routing su scala geografica.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Protocollo di routing.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/NAT router.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP forwarding.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/IP Datagram.md",
-    "Immagini/Pasted image 20221105123217.png",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Internet.md",
-    "600 - Protocolli ed architetture di rete/630 - Livello 3 - Network/Indirizzo IP.md"
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Handshake SSL.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Protocollo SSL Record.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Firma digitale.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Certification Authority.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Applicazioni della Crittografia.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/Servizi applicativi sicuri/Protocollo HTTPS.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Security Association.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo ISAKMP.md",
+    "300 - Cyber-Phisical Security/360 - Crittologia/Applicazioni della Crittografia/IPSec/Protocollo IKE.md"
   ]
 }
